@@ -1,0 +1,97 @@
+DTU/DF N°1,U1 : Visiteur,DF2 : Gestion Clientèle
+"ALT
+T.1.2.1) consulter l'accueil du site",,
+DTU/DF N°2,U2 : Destinataire occasionnel ,DF2 : Gestion Clientèle
+"ALT
+T.2.2.1) s'identifier sur l'interface ""client""
+T.2.2.2) consulter l'état de la livraison 
+T.2.2.3) faire une réclamation sur le reçu si le coli est en mauvais état",,
+DTU/DF N°3,U3 : Destinataire régulier,DF2 : Gestion Clientèle
+"ALT
+T.3.2.1) s'inscrire en tant que destinataire régulier
+T.3.2.2) modifier son mot de passe
+T.3.2.3) consulter l'état de la livraison
+T.3.2.4) faire une réclamation sur le reçu si le coli est en mauvais état (?????? QU'est ce qui se passe alors ???????????????)",,
+DTU/DF N°4,U4 : Expéditeur,DF2 : Gestion Clientèle
+"ALT
+T.4.2.1) s'identifier sur l'interface ""client"" 
+T.4.2.2) sélectionner un transporteur dans la liste proposée par le système
+T.4.2.3) consulter l'état de la livraison  ",,
+DTU/DF N°5,U5 : Livreur,DF1 : Gestion Livraisons
+"ALT
+T.5.1.1) s'identifier sur l'interface ""livraison""
+T.5.1.2) visualiser la feuille de route (adresse, horaire prévu départ/arrivée, lieu de la prochaine livraison)
+T.5.1.3) mettre à jour l'état de la livraison ALT
+           T.5.1.2.1) informer s'il est bloqué dans un bouchon
+           T.5.1.2.2) informer qu'un incident s'est produit
+           T.5.1.2.3) signaler la fin de la livraison ALT
+                         T.5.1.2.3.1) informer que le colis a été livré (heure de livraison, heure de départ)
+                         T.5.1.2.3.2) informer que le colis a été livré mais en mauvais état (heure de livraison, heure de départ)
+                         T.5.1.2.3.3) informer que le colis n'a pas pû être livré (heure, cause, heure de départ) ",,
+DTU/DF N°6,U6 : Secrétaire,DF1 : Gestion Livraisons
+"ALT
+T.6.1.1) effectuer la modification d'une livraison à la place du client
+T.6.1.2) informe superviseur si toutes les livraisons prévues pour une plage horraire ne peuvent toutes être effectuées et communique les autres disponibilités des destinaires ",,
+DTU/DF N°7,U6 : Secrétaire,DF2 : Gestion Clientèle
+"ALT : 
+T.6.2.1) Proposer de nouvelles plages horaires de livraison aux clients ALT
+              T.6.2.1.1) En cas de plage horaire comblée
+              T.6.2.1.2) En cas d'abscence du client destinataire, ou non livraison
+T.6.2.2) Gère les facturations 
+T.6.2.3) Gère les réclamations 
+T.6.2.4) Effectue les enquêtes de satisfaction client
+T.6.2.5) Effectue les tâches des clients qui ne sont pas à l'aise avec internet",,
+DTU/DF N°8,U7 : Superviseur,DF1 : Gestion Livraisons
+"ALT
+T.7.1.1) s'identifier sur l'interface ""supervision""
+T.7.1.2) consulter l'état de la livraison
+T.7.1.3) demande au système de calculer les feuilles de route pour le lendemain
+T.7.1.4) Modifie en temps réel les feuilles de route 
+T.7.1.5) Valide feuilles de route
+T.7.1.6) Edite une version papier des feuilles de route pour les livreurs
+T.7.1.7) Demander l'annulation des modifications apportées à la feuille de route",,
+DTU/DF N°9,U7 : Superviseur,DF2 : Gestion Clientèle
+"ALT
+T.7.2.1) Gère les facturations s'il n'y a pas de secrétaire.
+T.7.2.2) Gère les réclamations s'il n'y a pas de secrétaire
+T.7.2.3) Effectue les enquêtes de satisfaction client s'il n'y a pas de secrétaire.",,
+,,
+,,
+DTU/DF N°10,U8 : Directeur,DF1 : Gestion Livraisons
+"ALT
+T.8.1.1) Elabore des tableaux de bord pour manager son service.
+T.8.1.2) Effectuer la modification d'une livraison à la place d'un client si pas de secrétaire
+T.8.1.3) s'identifier sur l'interface ""supervision"" si pas de superviseur
+T.8.1.4) consulter l'état de la livraison si pas de superviseur
+T.8.1.5) Modifie en temps réel les feuilles de route si pas de superviseur",,
+DTU/DF N°11,U8 : Directeur,DF2 : Gestion Clientèle
+"ALT
+T.8.2.1) Etablit des contrats.
+T.8.2.2) Gère les facturations s'il n'y a pas de secrétaire ni de superviseur.
+T.8.2.3) Gère les réclamations s'il n'y a pas de secrétaire ni de superviseur.
+T.8.2.4) Effectue les enquêtes de satisfaction client s'il n'y a pas de secrétaire ni de superviseur",,
+DTU/DF N°12,U9 : Membre DSI,DF1 : Gestion Livraisons
+"ALT
+T.9.1.1) Ajoute les entreprises de transport au système",,
+DTU/DF N°13,U9 : Membre DSI,DF2 : Gestion Clientèle
+"ALT
+T.9.2.1) accède à l'interface de gestion client ?????????????????????????????????????????????????????????????????????????????????",,
+DTU/DF N°14,U9 : Membre DSI,DF3 : Administration SI
+"ALT
+T.9.3.1) Remplacement du matériel informatique défectueux 
+T.9.3.2) Corrige les potentiels bugs du système",,
+DTU/DF N°15,U10 : Système,DF1 : Gestion Livraisons
+"ALT
+T.10.1.1) création de comptes utilisateurs ALT 
+       T.10.1.1.1) création des comptes ""supervision""
+       T.10.1.1.2) création des comptes “livraison” 
+T.10.1.2) avertit l'entreprise de transport d'une demande de livraison
+T.10.1.3) avertit superviseur qu'un changement de plages horraires est demandé par une secrétaire
+T.10.1.4) met à jour les horraires de passage (version électronique) des livreurs en fonction des modifications apportées par les superviseurs",,
+DTU/DF N°16,U10 : Système,DF2 : Gestion Clientèle
+"ALT
+T.10.2.1) création de comptes utilisateurs ALT 
+       T.10.2.1.1) création des comptes ""expédition""
+       T.10.2.1.2) création des comptes “réception”
+T.10.2.2) indique au client expéditeur le montant à payer et demande le mode de règlement
+T.10.2.3) donne au client expéditeur un numéro de livraison et un mot de passe pour le suivi ",,
