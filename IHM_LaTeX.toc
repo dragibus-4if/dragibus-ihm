@@ -1,1 +1,60 @@
 \select@language {french}
+\contentsline {chapter}{\numberline {1}Description des T\IeC {\^a}ches de l'Utilisateur}{4}{chapter.1}
+\contentsline {paragraph}{}{4}{section*.2}
+\contentsline {section}{\numberline {1.1}Description des Domaines Fonctionnels}{4}{section.1.1}
+\contentsline {paragraph}{}{6}{section*.3}
+\contentsline {section}{\numberline {1.2}Mod\IeC {\`e}le des Utilisateurs}{8}{section.1.2}
+\contentsline {section}{\numberline {1.3}Graphe d'h\IeC {\'e}ritage des Profils Utilisateurs}{9}{section.1.3}
+\contentsline {section}{\numberline {1.4}Description des Profils Utilisateurs}{9}{section.1.4}
+\contentsline {section}{\numberline {1.5}Tableau des Tables Utilisateurs par Domaine Fonctionnel}{10}{section.1.5}
+\contentsline {section}{\numberline {1.6}Description des T\IeC {\^a}ches Utilisateurs par Domaine Fonctionnel}{12}{section.1.6}
+\contentsline {chapter}{\numberline {2}Description Conceptuelle de l'IHM}{13}{chapter.2}
+\contentsline {paragraph}{}{13}{section*.4}
+\contentsline {section}{\numberline {2.1}Dossier d'Initialisation de la Conception de l'IHM}{13}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Charte graphique et Guide de style utilis\IeC {\'e} : }{13}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Ensemble des m\IeC {\'e}taphores : }{13}{subsection.2.1.2}
+\contentsline {paragraph}{Superviseur :}{13}{section*.5}
+\contentsline {paragraph}{Livreur :}{14}{section*.6}
+\contentsline {paragraph}{Secr\IeC {\'e}taire :}{14}{section*.7}
+\contentsline {section}{\numberline {2.2}Mod\IeC {\`e}le Structurel de l'IHM}{15}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Livreur : }{15}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Secr\IeC {\'e}taire : }{15}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Superviseur : }{16}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Description d\IeC {\'e}taill\IeC {\'e}e des Principaux Objets Utilisateurs}{18}{section.2.3}
+\contentsline {chapter}{\numberline {3}Description de la S\IeC {\'e}mantique de l'IHM}{20}{chapter.3}
+\contentsline {paragraph}{}{20}{section*.8}
+\contentsline {section}{\numberline {3.1}Planification Hi\IeC {\'e}rarchique de la T\IeC {\^a}che Utilisateur Approfondie}{22}{section.3.1}
+\contentsline {section}{\numberline {3.2}Table des Commandes par Utilisateurs}{23}{section.3.2}
+\contentsline {section}{\numberline {3.3}Table des Utilisateurs par Commande}{23}{section.3.3}
+\contentsline {section}{\numberline {3.4}Description des COMmandes}{24}{section.3.4}
+\contentsline {chapter}{\numberline {4}Description Syntaxique de l'IHM}{29}{chapter.4}
+\contentsline {paragraph}{}{29}{section*.9}
+\contentsline {section}{\numberline {4.1}Sp\IeC {\'e}cification Syntaxique du Langage d'Entr\IeC {\'e}e / de Sortie}{29}{section.4.1}
+\contentsline {paragraph}{Entr\IeC {\'e}es :}{29}{section*.10}
+\contentsline {paragraph}{Sorties :}{30}{section*.11}
+\contentsline {section}{\numberline {4.2}Diagramme d'Encha\IeC {\^\i }nement des Fen\IeC {\^e}tres}{31}{section.4.2}
+\contentsline {paragraph}{}{31}{section*.12}
+\contentsline {paragraph}{}{31}{section*.13}
+\contentsline {paragraph}{}{32}{section*.14}
+\contentsline {paragraph}{}{33}{section*.15}
+\contentsline {section}{\numberline {4.3}Diagramme d'Etats des Classes}{35}{section.4.3}
+\contentsline {chapter}{\numberline {5}Description Lexicale de l'IHM}{36}{chapter.5}
+\contentsline {paragraph}{}{36}{section*.16}
+\contentsline {section}{\numberline {5.1}Lexique des Objets Graphiques}{36}{section.5.1}
+\contentsline {section}{\numberline {5.2}Tableau des Messages Utilisateurs}{39}{section.5.2}
+\contentsline {section}{\numberline {5.3}Tableau ICAR de l'IHM}{42}{section.5.3}
+\contentsline {paragraph}{}{42}{section*.17}
+\contentsline {paragraph}{}{42}{section*.18}
+\contentsline {paragraph}{}{42}{section*.19}
+\contentsline {paragraph}{}{42}{section*.20}
+\contentsline {paragraph}{}{43}{section*.21}
+\contentsline {paragraph}{}{43}{section*.22}
+\contentsline {paragraph}{}{44}{section*.23}
+\contentsline {paragraph}{}{44}{section*.24}
+\contentsline {paragraph}{}{45}{section*.25}
+\contentsline {paragraph}{}{45}{section*.26}
+\contentsline {paragraph}{}{46}{section*.27}
+\contentsline {chapter}{\numberline {A}Glossaire}{47}{Annexe.a.A}
+\contentsline {chapter}{\numberline {B}DTD}{50}{Annexe.a.B}
+\contentsline {chapter}{\numberline {C}Croquis de d\IeC {\'e}finition de l'IHM}{53}{Annexe.a.C}
+\contentsline {chapter}{\numberline {D}Diagramme de Gant du Projet}{54}{Annexe.a.D}

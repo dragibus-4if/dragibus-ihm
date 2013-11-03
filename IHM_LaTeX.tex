@@ -295,6 +295,17 @@ Cet ensemble de descriptions permet la concrétisation précise des commandes à
 
 \chapter{Description Syntaxique de l'IHM}
 
+\paragraph{}
+Cette quatrième partie a été effectuée durant la quatrième séance de travail, avec une charge de travail plus éclatée : \\
+
+JM Comets et P Turpin ont travaillé sur : SSyLE / SSyLS (+DTD).\\
+
+S Abadie a pris en charge le DEF.\\
+
+P Peller a pris en charge le DEC.\\
+
+Cette partie est l'occasion de clarifier les termes utilisés lors de la construction de l'IHM et de mettre en place un déroulement systématique pour chaque utilisateur.\\
+
 
 \section{Spécification Syntaxique du Langage d'Entrée / de Sortie}
 
@@ -340,12 +351,14 @@ r-affiche-feuille-route :: livraison*\\
 
 La DTD tirée de ce ... est présente en Annexe \ref{labDTD}.
 
+\newpage
+
 \section{Diagramme d'Enchaînement des Fenêtres}
 
 \paragraph{}
 ~~\\
 \begin{center}
-\includegraphics[scale = 0.18]{images/general.jpg}
+\includegraphics[scale = 0.25]{images/general.jpg}
 \end{center}
 
 \paragraph{}
@@ -376,6 +389,18 @@ La DTD tirée de ce ... est présente en Annexe \ref{labDTD}.
 
 \chapter{Description Lexicale de l'IHM}
 
+\paragraph{}
+Cette cinquième partie a été effectuée dans la même séance que la partie précédente, et le travail a été réparti de manière similaire.\\
+
+JM Comets, P Turpin ont travaillé sur : LxqOG et TMesU.\\
+
+P Peller a pris en charge le TICAR.\\
+
+J Rollet a collaboré sur LxqOG et TMesU.\\
+
+Q Coursodon a collaboré sur LxqOG et a pris en charge la conception de l'IHM démonstrative.\\ 
+
+
 
 \section{Lexique des Objets Graphiques}
 
@@ -388,6 +413,10 @@ secr-modif-zone-urgence&Zone de saisie de la personne à contacter en cas d'urge
 secr-modif-zone-date&Zone de saisie de la date de la livraison&\\\hline
 secr-modif-zone-heure&Zone de saisie de l'heure de la livraison&\\\hline
 secr-modif-btn-validation&Bouton de validation des modifications de la livraison&\\\hline
+secr-modif-btn-modifier&Bouton de modification de la livraison sélectionnée&\\\hline	
+secr-modif-btn-supprimer&Bouton de suppresion de la livraison sélectionnée&\\\hline	
+secr-modif-btn-affzone&Bouton d'affichage des livraisons par zone géographique&\\\hline	
+secr-modif-btn-afftout&Bouton d'affichage de toutes les livraisons&\\\hline	
 secr-modif-calendrier&Calendrier de choix d'une date aidant la saisie de la date de la livraison&\\\hline
 sup-modif-select-feuille-route&Liste déroulante de choix de la feuille de route à visualiser/modifier&\\\hline
 sup-modif-liste-livraison&Liste des livraisons ordonnées à faire pour la feuille de route choisie&\\\hline
@@ -434,7 +463,242 @@ livreur-dial-départ&Dialogue servant à confirmer la saise d'informations sur l
 
 \section{Tableau des Messages Utilisateurs}
 
+\begin{longtable}{|p{0.5cm}|p{3.5cm}|p{0.5cm}|p{3.5cm}|p{0.5cm}|p{3.5cm}|}
+\hline
+N.&Texte/Livreur&N.&Texte/Secrétaire&N.&Texte/Superviseur\\\hline
+0&OK&100&Valider&200&OK\\\hline
+1&Annuler&101&N/A&201&Annuler\\\hline
+2&Fermer&102&N/A&202&Fermer\\\hline
+3&Oui&103&N/A&203&Oui\\\hline
+4&Non&104&N/A&204&Non\\\hline
+5&Incident&105&N/A&205&N/A\\\hline
+6&Signaler incident&106&N/A&206&N/A\\\hline
+7&Bouchon&107&N/A&207&N/A\\\hline
+8&Êtes-vous pris dans un bouchon ?&108&N/A&208&N/A\\\hline
+9&Description de l'incident&109&N/A&209&N/A\\\hline
+10&Etat&110&N/A&210&N/A\\\hline
+11&Je suis arrivé&111&N/A&211&N/A\\\hline
+12&Feuille de route&112&N/A&212&Feuille de route de <livreur>\\\hline
+13&Adresse <adresse-destination>&113&N/A&213&Livraison à <adresse-destination>\\\hline
+14&Heure d'arrivée <heure-arrivée>&114&N/A&214&Heure prévue d'arrivé : <heure-arrive>\\\hline
+15&Prochain départ pour <heure-départ>&115&N/A&215&Heure prévue de départ : <heure-départ>\\\hline
+16&N/A&116&N/A&216&Itinéraire : <itinéraire>\\\hline
+17&Numéro à contacter en cas d'urgence <personne-à-contacter>&117&N/A&217&Personne à contacter <personne-à-contacter>\\\hline
+18&Le client était là ?&118&N/A&218&N/A\\\hline
+19&La livraison a-t-elle été effectuée ?&119&N/A&219&N/A\\\hline
+20&Heure de livraison <heure-livraison>&120&N/A&220&N/A\\\hline
+21&Cause&121&N/A&221&N/A\\\hline
+22&Départ&122&N/A&222&N/A\\\hline
+23&N/A&123&Livraison&223&Livraison\\\hline
+24&N/A&124&Adresse&224&Adresse\\\hline
+25&N/A&125&Numéro à contacter en cas d'urgence&225&Numéro à contacter en cas d'urgence\\\hline
+26&N/A&126&Jour&226&Jour\\\hline
+27&N/A&127&Heure&227&Heure\\\hline
+28&Les informations de la livraison sont-elles valides ?&128&N/A&228&N/A\\\hline
+29&Signaler&129&N/A&229&N/A\\\hline
+30&En capacité d'effectuer la livraison à l'heure&130&N/A&230&N/A\\\hline
+31&En capacité d'effectuer la livraison avec retard&131&N/A&231&N/A\\\hline
+32&Besoin d'une dépaneuse et d'un remplaçant&132&N/A&232&N/A\\\hline
+33&Besoin de secours&133&N/A&233&N/A\\\hline
+34&N/A&134&Modifier&234&Modifier\\\hline
+35&N/A&135&Supprimer&235&Supprimer\\\hline
+36&N/A&136&Affichage / zone géographique&236&Affichage / zone géographique\\\hline
+37&N/A&137&Afficher toutes les livraisons&237&Afficher toutes les livraisons\\\hline
+
+\end{longtable}
+
+\newpage
+
 \section{Tableau ICAR de l'IHM}
+
+
+\paragraph{}
+Modèle ICAR de la fenêtre: Navigation
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Intention&Contrôle&Action&Réponse\\\hline
+1) appeler destinataire en cas de problème&1) bouton \newline
+"livreur-ico-probleme""&> clic&montre le dialogue <<livreur-dial-urgence>>\\\hline
+2) confirmation de la navigation&1) bouton \newline
+"livreur-btn-arrivé""&> clic&montre le dialogue <<livreur-dial-arrivé>>\\\hline
+\end{longtable}
+
+\paragraph{}
+Modèle ICAR du dialogue: Numéro à appeler en cas d'urgence
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Intention&Contrôle&Action&Réponse\\\hline
+1) appeler urgences&1) bouton \newline
+"livreur-dial-urgence-numéro""&> clic&ouvre l'application <<appeler>>\\\hline
+2) signaler un bouchon&1) bouton \newline
+"livreur-dial-urgence-btn-bouchon""&> clic&montre le dialogue <<livreur-dial-bouchon>>\\\hline
+3) signaler un autre incident&1) bouton \newline
+"livreur-dial-urgence-btn-incident""&> clic&montre le dialogue <<livreur-dial-incident>>\\\hline
+4) abandonner l'appel&1) bouton \newline
+"livreur-dial-urgence-btn-fermer""&> clic&ferme le dialogue sans rien faire pour revenir à la fenêtre <<navigation>>\\\hline
+\end{longtable}
+
+\paragraph{}
+Modèle ICAR du dialogue: Êtes-vous pris dans un bouchon?
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Intention&Contrôle&Action&Réponse\\\hline
+1) confirmer un bouchon&1) bouton \newline
+"livreur-dial-bouchon-oui"&> clic&ferme les dialogues <<livreur-dial-bouchon>> et <<livreur-dial-urgence>> pour revenir à la fenêtre <<navigation>> et envoie un mail à la centrale"\\\hline
+2) abandonner ou nier un bouchon&1) bouton \newline
+"livreur-dial-bouchon-non"&> clic&montre le dialogue <<livreur-dial-urgence>>\\\hline
+\end{longtable}
+
+\paragraph{}
+Modèle ICAR du dialogue: Description de l'incident?
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Intention&Contrôle&Action&Réponse\\\hline
+1) saisir description d'un incident&1) b-input \newline
+"livreur-dial-incident-description""&> saisie&affiche la description entrée dans la cellule\\\hline
+2) choisir l'état de la livraison&1) b-radio \newline
+"livreur-dial-incident-état"&> clic&noirci le bouton correspondant\\\hline
+3) confirmer la description de l'incident&1) bouton \newline
+"livreur-dial-incident-signaler-confirmer"&> clic&ferme les dialogues précedents pour revenir à la fenêtre <<navigation>> et envoie un mail à la centrale\\\hline
+4) annuler la description de l'incident&1) bouton \newline
+"livreur-dial-incident-signaler-annuler"&> clic&ferme les dialogues précedents sans rien faire\\\hline
+\end{longtable}
+
+
+\paragraph{}
+Modèle ICAR du dialogue: livreur-dial-arrivé
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Itention&Contrôle&Action&Réponse\\\hline
+1) confirmer l'arrivé chez le destinataire&1) bouton \newline
+"livreur-dial-arrivé-oui"&> clic&ferme le dialogue <<livreur-dial-arrivé>>, montre la fenêtre <<livraison>>\\\hline
+2) abandonner ou nier l'arrivé&1) bouton \newline
+"livreur-dial-arrivé-non"&> clic&ferme le dialogue <<livreur-dial-arrivé>> pour revenir à la fenêtre <<navigation>>\\\hline
+\end{longtable}
+
+
+\paragraph{}
+Modèle ICAR de la fenêtre: Livraison
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Intention&Contrôle&Action&Réponse\\\hline
+1) verifier si le destinateur était disponible&1) b-radio \newline
+"livreur-radio-client-présent-oui" ou "livreur-radio-client-présent-non"&> clic&noircit le bouton correspondant\newline
+si oui: montre le groupe de boutons radio <<livraison effectué>> (livreur-radio-livraison-effectuée)\newline
+si non: montre le groupe de combo-box <<heure livraison>> (livreur-heure-livraison)\\\hline
+2) verifier si la livraison a été effectuée&1) b-radio \newline
+"livreur-radio-livraison-effectuée-oui" ou "livreur-radio-livraison-effectuée-non"&> clic&noircit le bouton correspondant\newline
+si oui: enable bouton <<livreur-btn-départ>>\newline
+si non: montre la cellule <<livreur-txt-cause>>"\\\hline
+3) saisir l'heure de la livraison&1) b-input \newline
+"livreur-heure-livraison"&> saisie ' '&affiche l'heure et la minute choisie, heure et minute dans fs-livraison\\\hline
+4) saisir la cause pour l'échec de la livraison&1) b-input \newline
+"livreur-txt-cause"&> saisie ' '&affiche le texte entré dans le champ\\\hline
+5) saisir le temps restant jusqu'au départ&1) b-combo-box\newline
+"livreur-heure-départ""&> saisie ' '&affiche le temps restant jusqu'au départ, active le bouton <<livreur-btn-départ>>\\\hline
+6) confirmer le départ&1) b-bouton \newline
+"livreur-btn-départ""&> clic&montre le dialogue <<livreur-dial-départ>>\\\hline
+\end{longtable}
+
+
+\paragraph{}
+Modèle ICAR du dialogue: Les informations sur la livraison sont-elles bien valides?
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Itention&Contrôle&Action&Réponse\\\hline
+1) confirmer la validité des infos&1) b-bouton \newline
+"livreur-dial-départ-oui"&> clic&ferme le dialogue <<validation infos livraison>> et la fenêtre <<livraison>>, montre la fenêtre <<navigation>> et envoie les infos capturées à la centrale en forme de mail\\\hline
+2) abandonner ou nier la validité&1) b-bouton \newline
+"livreur-dial-départ-non""&> clic&ferme le dialogue <<validation infos livraison>> pour revenir à la fenêtre <<livraison>>\\\hline
+\end{longtable}
+
+\paragraph{}
+Modèle ICAR de la fenêtre: Modification secrétaire
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Itention&Contrôle&Action&Réponse\\\hline
+1) choisir la livraison à modifier&1) b-combo-box\newline
+"secr-modif-select-livraison""&> clic&affiche l'ID de la livraison choisi dans le combo-box et les autres infos dans les cellules correspondantes\\\hline
+2) modifier l'adresse de la livraison&1) b-input \newline
+"secr-modif-zone-adresse""&> saisie ' '&affiche l'adresse entrée\\\hline
+3) modifier le numéro de téléphone du client&1) b-input \newline
+"secr-modif-zone-urgence""&> saisie ' '&affiche le numéro de téléphone saisi\\\hline
+4) choisir le jour de la livraison&1) b-combo-box\newline
+"cbx-modif-sec-jour"&> saisie ' ' ou clic&bouton: montre un calendrier pour sélectionner un jour, puis affiche la date précisée dans les combo-box\newline combo-box: affiche le jour et le mois directement et "cbx-modif-sec-mois" ou b-bouton "b-modif-sec-date"\\\hline
+5) choisir l'heure de la livraison&1) b-combo-box\newline
+"secr-modif-zone-heure""&> 2 clics&affiche l'heure choisi pour la livraison dans le combo-box\\\hline
+6) valider les modifications de la livraison&1) b-bouton \newline
+"secr-modif-bouton-validation""&> clic&valide les informations\newline
+si bon: remplace les infos dans la base de données, affiche le formulaire vide\newline
+sinon: message d'erreur et assistance"\\\hline
+\end{longtable}
+
+\paragraph{}
+Modèle ICAR de la fenêtre : Gestion des feuilles de routes pour la journée
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Itention&Contrôle&Action&Réponse\\\hline
+1) choisir la feuille de route d'un livreur&1) b-combo-box \newline
+"sup-modif-select-feuille-route"&> clic&affiche le nom de la feuille de route choisie dans la combo-box, affiche les livraisons correspondantes dans la liste \\\hline
+2) regarder les informations d'une livraison&1) b-combo-box\newline
+"sup-modif-liste-livraison"\newline
+2) icône\newline
+"sup-modif-livraison-ico-deroul"&> clic&déroule la livraison choisie pour en afficher les informations(livraison, adresse et téléphone), et la sélectionne dans <sup-modif-map-vue>\\\hline
+3) cacher les informations d'une livraison sélectionnée&1) b-combo-box\newline
+"sup-modif-liste-livraison"\newline
+2) icône\newline
+"sup-modif-livraison-ico-enroul"&> clic&enroule la livraison précédemment déroulée pour n'afficher que la liste de départ\\\hline
+4) modifier l'ordre d'une feuille de route&1) b-combo-box\newline
+"sup-modif-liste-livraison"\newline
+2) "sup-modif-livraison"&> glissé-déposé&déplace la livraison sélectionnée dans l'odre de la feuille de route\\\hline
+5) supprimer une livraison de la feuille de route&1) b-combo-box\newline
+"sup-modif-liste-livraison"\newline
+2) icône\newline
+"sup-modif-livraison-ico-suppr"&> clic&supprime la livraison voulue de la feuille de route et réorganise celle-ci\\\hline
+\end{longtable}
+
+\paragraph{}
+Modèle ICAR de la fenêtre : Liste de toutes les livraisons
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Itention&Contrôle&Action&Réponse\\\hline
+1) sélectionner une livraison à modifier ou supprimer&1) b-combo-box \newline
+"secr-modif-select-livraison"&> clic&met en surbrillance la livraison à sélectionner\\\hline
+2) modifier la livraison sélectionnée&1) b-button\newline
+"secr-modif-btn-modifier"&> clic&ouvre la fenêtre de modification des livraisons avec la livraison sélectionnée\\\hline
+3) supprimer la livraison sélectionnée&1) b-button\newline
+"secr-modif-btn-supprimer"&> clic&supprime la livraison de la liste\\\hline
+4) afficher les livraisons par zone géographique&1) b-button\newline
+"secr-modif-btn-affzone"&> clic&affiche la fenêtre de la liste des livraisons par zone géographique\\\hline
+\end{longtable}
+
+\paragraph{}
+Modèle ICAR de la fenêtre : Liste des livraisons par zone géographique
+
+\begin{longtable}{|p{3cm}|p{4cm}|p{2cm}|p{5cm}|}
+\hline
+Itention&Contrôle&Action&Réponse\\\hline
+1) sélectionner une livraison à modifier ou supprimer&1) b-combo-box \newline
+"secr-modif-select-livraison"&> clic&met en surbrillance la livraison à sélectionner\\\hline
+2) modifier la livraison sélectionnée&1) b-button\newline
+"secr-modif-btn-modifier"&> clic&ouvre la fenêtre de modification des livraisons avec la livraison sélectionnée\\\hline
+3) supprimer la livraison sélectionnée&1) b-button\newline
+"secr-modif-btn-supprimer"&> clic&supprime la livraison de la liste\\\hline
+4) afficher toutes les livraisons&1) b-button\newline
+"secr-modif-btn-afftout"&> clic&affiche la fenêtre de la liste de toutes les livraisons\\\hline
+5) afficher une autre zone géographique&1) b-button\newline
+"secr-modif-select-zone"&> clic&affiche la liste des livraisons correspondant à la zone géographique sélectionnée\\\hline
+\end{longtable}
 
 
 \begin{appendices}
@@ -639,7 +903,7 @@ Pour la description de ces commandes, se référer à la \hyperlink{labDCOM}{Des
 
 \chapter{Croquis de définition de l'IHM}
 
-
+\chapter{Diagramme de Gant du Projet}
 
 \end{appendices}
 
