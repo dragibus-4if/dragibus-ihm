@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.19)  3 NOV 2013 19:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.19)  5 NOV 2013 01:49
 entering extended mode
 **IHM_LaTeX.tex
 (C:\Users\Ju\Documents\GitHub\dragibus-ihm\IHM_LaTeX.tex
@@ -737,13 +737,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--107
 
 [4
 
-] <images/DDF.pdf, id=197, 813.9942pt x 780.03922pt>
+] <images/DDF.pdf, id=217, 813.9942pt x 780.03922pt>
 File: images/DDF.pdf Graphic file (type pdf)
  <use images/DDF.pdf>
 Package pdftex.def Info: images/DDF.pdf used on input line 110.
 (pdftex.def)             Requested size: 325.59192pt x 312.01015pt.
  [5]
-<images/MU.jpeg, id=202, 1947.275pt x 1107.13625pt>
+<images/MU.jpeg, id=222, 1947.275pt x 1107.13625pt>
 File: images/MU.jpeg Graphic file (type jpg)
  <use images/MU.jpeg>
 Package pdftex.def Info: images/MU.jpeg used on input line 115.
@@ -751,7 +751,7 @@ Package pdftex.def Info: images/MU.jpeg used on input line 115.
  [6 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/DDF.pdf>] [7]
 Overfull \vbox (48.61081pt too high) has occurred while \output is active []
 
- [8 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/MU.jpeg>] <images/GPU.jpeg, id=230, 1023.825pt x 923.45pt>
+ [8 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/MU.jpeg>] <images/GPU.jpeg, id=250, 1023.825pt x 923.45pt>
 File: images/GPU.jpeg Graphic file (type jpg)
  <use images/GPU.jpeg>
 Package pdftex.def Info: images/GPU.jpeg used on input line 119.
@@ -816,7 +816,7 @@ Overfull \hbox (9.61633pt too wide) in paragraph at lines 172--172
 []\T1/cmr/bx/n/14.4 Description des Tâches Uti-li-sa-teurs par Do-maine Fonc-
  []
 
-<images/DTUDF.pdf, id=238, 597.23125pt x 845.1575pt>
+<images/DTUDF.pdf, id=258, 597.23125pt x 845.1575pt>
 File: images/DTUDF.pdf Graphic file (type pdf)
  <use images/DTUDF.pdf>
 Package pdftex.def Info: images/DTUDF.pdf used on input line 174.
@@ -868,7 +868,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
-<images/DICIHM.jpg, id=267, 775.39688pt x 344.03531pt>
+<images/DICIHM.jpg, id=287, 775.39688pt x 344.03531pt>
 File: images/DICIHM.jpg Graphic file (type jpg)
  <use images/DICIHM.jpg>
 Package pdftex.def Info: images/DICIHM.jpg used on input line 232.
@@ -878,7 +878,7 @@ Overfull \hbox (2.6975pt too wide) in paragraph at lines 232--233
 [][] 
  []
 
-<images/MSIHM-U1.jpeg, id=268, 1244.65pt x 602.25pt>
+<images/MSIHM-U1.jpeg, id=288, 1244.65pt x 602.25pt>
 File: images/MSIHM-U1.jpeg Graphic file (type jpg)
  <use images/MSIHM-U1.jpeg>
 Package pdftex.def Info: images/MSIHM-U1.jpeg used on input line 237.
@@ -888,19 +888,19 @@ Overfull \hbox (25.73576pt too wide) in paragraph at lines 237--238
 [][] 
  []
 
-[14 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/DICIHM.jpg>] <images/MSIHM-U2.jpeg, id=275, 481.8pt x 461.725pt>
+[14 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/DICIHM.jpg>] <images/MSIHM-U2.jpeg, id=295, 481.8pt x 461.725pt>
 File: images/MSIHM-U2.jpeg Graphic file (type jpg)
 
 <use images/MSIHM-U2.jpeg>
 Package pdftex.def Info: images/MSIHM-U2.jpeg used on input line 240.
 (pdftex.def)             Requested size: 192.71658pt x 184.68672pt.
- <images/MSIHM-U3.jpeg, id=276, 883.3pt x 622.325pt>
+ <images/MSIHM-U3.jpeg, id=296, 883.3pt x 622.325pt>
 File: images/MSIHM-U3.jpeg Graphic file (type jpg)
  <use images/MSIHM-U3.jpeg>
 Package pdftex.def Info: images/MSIHM-U3.jpeg used on input line 243.
 (pdftex.def)             Requested size: 353.31374pt x 248.92558pt.
  [15 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/MSIHM-U1.jpeg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/
-MSIHM-U2.jpeg>] <images/DPOU.pdf, id=281, page=1, 597.23125pt x 845.1575pt>
+MSIHM-U2.jpeg>] <images/DPOU.pdf, id=301, page=1, 597.23125pt x 845.1575pt>
 File: images/DPOU.pdf Graphic file (type pdf)
  <use images/DPOU.pdf, page 1>
 Package pdftex.def Info: images/DPOU.pdf, page1 used on input line 249.
@@ -913,7 +913,7 @@ Overfull \hbox (3.19571pt too wide) in paragraph at lines 249--250
 [16 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/MSIHM-U3.jpeg>] [17]
 Overfull \vbox (31.76967pt too high) has occurred while \output is active []
 
- [18 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/DPOU.pdf>] <images/DPOU.pdf, id=303, page=2, 597.23125pt x 845.15
+ [18 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/DPOU.pdf>] <images/DPOU.pdf, id=323, page=2, 597.23125pt x 845.15
 75pt>
 File: images/DPOU.pdf Graphic file (type pdf)
  <use images/DPOU.pdf, page 2>
@@ -951,7 +951,7 @@ Overfull \hbox (3.59467pt too wide) in paragraph at lines 268--268
 []\T1/cmr/bx/n/14.4 Planification Hié-rar-chique de la Tâche Uti-li-sa-teur Ap-
  []
 
-<images/DAU.pdf, id=320, 597.23125pt x 845.1575pt>
+<images/DAU.pdf, id=340, 597.23125pt x 845.1575pt>
 File: images/DAU.pdf Graphic file (type pdf)
  <use images/DAU.pdf>
 Package pdftex.def Info: images/DAU.pdf used on input line 270.
@@ -964,61 +964,61 @@ Overfull \hbox (122.64896pt too wide) in paragraph at lines 270--271
 [21]
 Overfull \vbox (203.61038pt too high) has occurred while \output is active []
 
- [22 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/DAU.pdf>] <images/TCU.jpg, id=336, 469.00218pt x 377.15906pt>
+ [22 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/DAU.pdf>] <images/TCU.jpg, id=356, 469.00218pt x 377.15906pt>
 File: images/TCU.jpg Graphic file (type jpg)
  <use images/TCU.jpg>
 Package pdftex.def Info: images/TCU.jpg used on input line 274.
 (pdftex.def)             Requested size: 281.40347pt x 226.29718pt.
 
-<images/TUC.jpg, id=337, 593.96906pt x 402.75468pt>
+<images/TUC.jpg, id=357, 593.96906pt x 402.75468pt>
 File: images/TUC.jpg Graphic file (type jpg)
  <use images/TUC.jpg>
 Package pdftex.def Info: images/TUC.jpg used on input line 278.
 (pdftex.def)             Requested size: 356.38419pt x 241.65466pt.
 
-<images/DCOM0.jpg, id=338, 572.1375pt x 394.47375pt>
+<images/DCOM0.jpg, id=358, 572.1375pt x 394.47375pt>
 File: images/DCOM0.jpg Graphic file (type jpg)
  <use images/DCOM0.jpg>
 Package pdftex.def Info: images/DCOM0.jpg used on input line 284.
 (pdftex.def)             Requested size: 400.49352pt x 276.12973pt.
 
-<images/DCOM1.jpg, id=339, 575.14874pt x 399.74344pt>
+<images/DCOM1.jpg, id=359, 575.14874pt x 399.74344pt>
 File: images/DCOM1.jpg Graphic file (type jpg)
  <use images/DCOM1.jpg>
 Package pdftex.def Info: images/DCOM1.jpg used on input line 285.
 (pdftex.def)             Requested size: 402.60138pt x 279.81848pt.
 
-<images/DCOM2.jpg, id=340, 575.14874pt x 401.24907pt>
+<images/DCOM2.jpg, id=360, 575.14874pt x 401.24907pt>
 File: images/DCOM2.jpg Graphic file (type jpg)
  <use images/DCOM2.jpg>
 Package pdftex.def Info: images/DCOM2.jpg used on input line 286.
 (pdftex.def)             Requested size: 402.60138pt x 280.87242pt.
 
-<images/DCOM3.jpg, id=341, 589.4522pt x 362.85562pt>
+<images/DCOM3.jpg, id=361, 589.4522pt x 362.85562pt>
 File: images/DCOM3.jpg Graphic file (type jpg)
  <use images/DCOM3.jpg>
 Package pdftex.def Info: images/DCOM3.jpg used on input line 287.
 (pdftex.def)             Requested size: 412.61372pt x 253.99721pt.
 
-<images/DCOM4.jpg, id=342, 582.67688pt x 347.04657pt>
+<images/DCOM4.jpg, id=362, 582.67688pt x 347.04657pt>
 File: images/DCOM4.jpg Graphic file (type jpg)
  <use images/DCOM4.jpg>
 Package pdftex.def Info: images/DCOM4.jpg used on input line 288.
 (pdftex.def)             Requested size: 407.87103pt x 242.93094pt.
 
-<images/DCOM5.jpg, id=343, 580.41844pt x 385.44pt>
+<images/DCOM5.jpg, id=363, 580.41844pt x 385.44pt>
 File: images/DCOM5.jpg Graphic file (type jpg)
  <use images/DCOM5.jpg>
 Package pdftex.def Info: images/DCOM5.jpg used on input line 289.
 (pdftex.def)             Requested size: 406.29013pt x 269.80615pt.
 
-<images/DCOM6.jpg, id=344, 573.64313pt x 408.77719pt>
+<images/DCOM6.jpg, id=364, 573.64313pt x 408.77719pt>
 File: images/DCOM6.jpg Graphic file (type jpg)
  <use images/DCOM6.jpg>
 Package pdftex.def Info: images/DCOM6.jpg used on input line 290.
 (pdftex.def)             Requested size: 401.54745pt x 286.14207pt.
 
-<images/DCOM7.jpg, id=345, 580.41844pt x 167.12437pt>
+<images/DCOM7.jpg, id=365, 580.41844pt x 167.12437pt>
 File: images/DCOM7.jpg Graphic file (type jpg)
  <use images/DCOM7.jpg>
 Package pdftex.def Info: images/DCOM7.jpg used on input line 291.
@@ -1157,7 +1157,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
-<images/general.jpg, id=385, 1241.38782pt x 1633.60312pt>
+<images/general.jpg, id=405, 1241.38782pt x 1633.60312pt>
 File: images/general.jpg Graphic file (type jpg)
  <use images/general.jpg>
 Package pdftex.def Info: images/general.jpg used on input line 361.
@@ -1167,7 +1167,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
-<images/g-secretaire.jpg, id=386, 1486.05188pt x 2003.98688pt>
+<images/g-secretaire.jpg, id=406, 1486.05188pt x 2003.98688pt>
 File: images/g-secretaire.jpg Graphic file (type jpg)
  <use images/g-secretaire.jpg>
 Package pdftex.def Info: images/g-secretaire.jpg used on input line 367.
@@ -1177,7 +1177,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
 
-<images/g-sup.jpg, id=393, 1956.5597pt x 2439.86531pt>
+<images/g-sup.jpg, id=413, 1956.5597pt x 2439.86531pt>
 File: images/g-sup.jpg Graphic file (type jpg)
  <use images/g-sup.jpg>
 Package pdftex.def Info: images/g-sup.jpg used on input line 373.
@@ -1187,7 +1187,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
-<images/g-livreur.jpg, id=399, 2031.84094pt x 2593.43906pt>
+<images/g-livreur.jpg, id=419, 2031.84094pt x 2593.43906pt>
 File: images/g-livreur.jpg Graphic file (type jpg)
  <use images/g-livreur.jpg>
 Package pdftex.def Info: images/g-livreur.jpg used on input line 379.
@@ -1197,1214 +1197,1660 @@ Overfull \hbox (6.361pt too wide) in paragraph at lines 379--380
  [] 
  []
 
-[33 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/g-sup.jpg>] [34 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/
-g-livreur.jpg>] [35]
+[33 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/g-sup.jpg>]
+<images/dec-livreur-principale.jpg, id=425, 590.205pt x 494.59781pt>
+File: images/dec-livreur-principale.jpg Graphic file (type jpg)
+ <use images/dec-livreur-principale.jpg>
+Package pdftex.def Info: images/dec-livreur-principale.jpg used on input line 387.
+(pdftex.def)             Requested size: 442.65266pt x 370.94743pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--388
+
+ []
+
+
+Overfull \hbox (42.65266pt too wide) in paragraph at lines 385--388
+[] 
+ []
+
+[34 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/g-livreur.jpg>]
+<images/dec-livreur-probleme.jpg, id=430, 590.205pt x 500.62032pt>
+File: images/dec-livreur-probleme.jpg Graphic file (type jpg)
+ <use images/dec-livreur-probleme.jpg>
+Package pdftex.def Info: images/dec-livreur-probleme.jpg used on input line 391.
+(pdftex.def)             Requested size: 442.65266pt x 375.46431pt.
+
+Overfull \hbox (52.65022pt too wide) in paragraph at lines 391--392
+ [][] [] 
+ []
+
+[35 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-livreur-principale.jpg>]
+<images/dec-livreur-bouchon.jpg, id=435, 522.45187pt x 398.99063pt>
+File: images/dec-livreur-bouchon.jpg Graphic file (type jpg)
+ <use images/dec-livreur-bouchon.jpg>
+Package pdftex.def Info: images/dec-livreur-bouchon.jpg used on input line 395.
+(pdftex.def)             Requested size: 391.83794pt x 299.24223pt.
+
+Overfull \hbox (1.8355pt too wide) in paragraph at lines 395--396
+ [][] [] 
+ []
+
+[36 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-livreur-probleme.jpg>]
+<images/dec-livreur-incident.jpg, id=442, 1050.17343pt x 776.14969pt>
+File: images/dec-livreur-incident.jpg Graphic file (type jpg)
+ <use images/dec-livreur-incident.jpg>
+Package pdftex.def Info: images/dec-livreur-incident.jpg used on input line 399.
+(pdftex.def)             Requested size: 525.08543pt x 388.0739pt.
+ [37 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-livreur-bouchon.jpg>]
+<images/dec-livreur-conf-arrive.jpg, id=448, 522.45187pt x 398.99063pt>
+File: images/dec-livreur-conf-arrive.jpg Graphic file (type jpg)
+ <use images/dec-livreur-conf-arrive.jpg>
+Package pdftex.def Info: images/dec-livreur-conf-arrive.jpg used on input line 403.
+(pdftex.def)             Requested size: 391.83794pt x 299.24223pt.
+
+Overfull \hbox (1.8355pt too wide) in paragraph at lines 403--404
+ [][] [] 
+ []
+
+[38 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-livreur-incident.jpg>]
+<images/dec-livreur-infos.jpg, id=454, 1050.17343pt x 782.925pt>
+File: images/dec-livreur-infos.jpg Graphic file (type jpg)
+ <use images/dec-livreur-infos.jpg>
+Package pdftex.def Info: images/dec-livreur-infos.jpg used on input line 407.
+(pdftex.def)             Requested size: 525.08543pt x 391.46155pt.
+
+Overfull \hbox (1.4591pt too wide) in paragraph at lines 407--408
+ [][] [] 
+ []
+
+[39 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-livreur-conf-arrive.jpg>]
+<images/dec-secretaire-principale.jpg, id=460, 898.10532pt x 631.60968pt>
+File: images/dec-secretaire-principale.jpg Graphic file (type jpg)
+ <use images/dec-secretaire-principale.jpg>
+Package pdftex.def Info: images/dec-secretaire-principale.jpg used on input line 413.
+(pdftex.def)             Requested size: 449.05156pt x 315.80406pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--414
+
+ []
+
+[40 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-livreur-infos.jpg>]
+<images/dec-secretaire-modif.jpg, id=466, 1050.17343pt x 776.14969pt>
+File: images/dec-secretaire-modif.jpg Graphic file (type jpg)
+ <use images/dec-secretaire-modif.jpg>
+Package pdftex.def Info: images/dec-secretaire-modif.jpg used on input line 417.
+(pdftex.def)             Requested size: 525.08543pt x 388.0739pt.
+ [41 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-secretaire-principale.jpg>]
+<images/dec-superviseur-principale.jpg, id=471, 898.10532pt x 631.60968pt>
+File: images/dec-superviseur-principale.jpg Graphic file (type jpg)
+ <use images/dec-superviseur-principale.jpg>
+Package pdftex.def Info: images/dec-superviseur-principale.jpg used on input line 424.
+(pdftex.def)             Requested size: 449.05156pt x 315.80406pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--425
+
+ []
+
+[42 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-secretaire-modif.jpg>]
+<images/dec-superviseur-modif.jpg, id=478, 1050.17343pt x 776.14969pt>
+File: images/dec-superviseur-modif.jpg Graphic file (type jpg)
+ <use images/dec-superviseur-modif.jpg>
+Package pdftex.def Info: images/dec-superviseur-modif.jpg used on input line 428.
+(pdftex.def)             Requested size: 525.08543pt x 388.0739pt.
+ [43 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-superviseur-principale.jpg>]
+<images/dec-sup-zone-geo.jpg, id=483, 845.98412pt x 446.37354pt>
+File: images/dec-sup-zone-geo.jpg Graphic file (type jpg)
+ <use images/dec-sup-zone-geo.jpg>
+Package pdftex.def Info: images/dec-sup-zone-geo.jpg used on input line 435.
+(pdftex.def)             Requested size: 422.99101pt x 223.18622pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--436
+
+ []
+
+
+Overfull \hbox (22.99101pt too wide) in paragraph at lines 433--436
+[] 
+ []
+
+[44 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-superviseur-modif.jpg>]
+<images/dec-sup-fdr-liv.jpg, id=489, 922.5053pt x 478.96588pt>
+File: images/dec-sup-fdr-liv.jpg Graphic file (type jpg)
+ <use images/dec-sup-fdr-liv.jpg>
+Package pdftex.def Info: images/dec-sup-fdr-liv.jpg used on input line 442.
+(pdftex.def)             Requested size: 461.25153pt x 239.48235pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--443
+
+ []
+
+
+Overfull \hbox (61.25153pt too wide) in paragraph at lines 440--443
+[] 
+ []
+
+[45 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/dec-sup-zone-geo.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/i
+mages/dec-sup-fdr-liv.jpg>]
 Chapitre 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--394
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 410--410
+Underfull \hbox (badness 10000) in paragraph at lines 467--469
+
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 473--473
 []|\T1/cmr/m/n/10 Zone de sai-sie per-met-tant le
  []
 
-<images/tools.png, id=413, 16.06pt x 16.06pt>
-File: images/tools.png Graphic file (type png)
- <use images/tools.png>
-Package pdftex.def Info: images/tools.png used on input line 410.
-(pdftex.def)             Requested size: 16.05995pt x 16.05995pt.
+<images/btn-sec-valid.jpg, id=497, 44.94101pt x 15.79008pt>
+File: images/btn-sec-valid.jpg Graphic file (type jpg)
+ <use images/btn-sec-valid.jpg>
+Package pdftex.def Info: images/btn-sec-valid.jpg used on input line 478.
+(pdftex.def)             Requested size: 44.94089pt x 15.79004pt.
 
-Underfull \hbox (badness 2318) in paragraph at lines 421--421
+<images/btn-sec-modif.jpg, id=498, 45.54832pt x 15.79008pt>
+File: images/btn-sec-modif.jpg Graphic file (type jpg)
+ <use images/btn-sec-modif.jpg>
+Package pdftex.def Info: images/btn-sec-modif.jpg used on input line 479.
+(pdftex.def)             Requested size: 45.5482pt x 15.79004pt.
+
+<images/btn-sec-suppr.jpg, id=499, 43.72638pt x 15.18277pt>
+File: images/btn-sec-suppr.jpg Graphic file (type jpg)
+ <use images/btn-sec-suppr.jpg>
+Package pdftex.def Info: images/btn-sec-suppr.jpg used on input line 480.
+(pdftex.def)             Requested size: 43.72627pt x 15.18272pt.
+
+<images/btn-sec-zone.jpg, id=500, 98.38437pt x 16.3974pt>
+File: images/btn-sec-zone.jpg Graphic file (type jpg)
+ <use images/btn-sec-zone.jpg>
+Package pdftex.def Info: images/btn-sec-zone.jpg used on input line 481.
+(pdftex.def)             Requested size: 98.38411pt x 16.39734pt.
+
+<images/btn-sec-afftout.jpg, id=501, 117.81831pt x 14.57545pt>
+File: images/btn-sec-afftout.jpg Graphic file (type jpg)
+ <use images/btn-sec-afftout.jpg>
+Package pdftex.def Info: images/btn-sec-afftout.jpg used on input line 482.
+(pdftex.def)             Requested size: 117.81801pt x 14.57541pt.
+
+<images/cal-sec-modif.jpg, id=502, 82.59428pt x 17.61201pt>
+File: images/cal-sec-modif.jpg Graphic file (type jpg)
+ <use images/cal-sec-modif.jpg>
+Package pdftex.def Info: images/cal-sec-modif.jpg used on input line 483.
+(pdftex.def)             Requested size: 82.59407pt x 17.61197pt.
+
+Underfull \hbox (badness 2318) in paragraph at lines 484--484
 []|\T1/cmr/m/n/10 Liste dé-rou-lante de choix de
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 421--421
+Underfull \hbox (badness 2035) in paragraph at lines 484--484
 \T1/cmr/m/n/10 la feuille de route à vi-sua-li-
  []
 
+<images/gestion-suppr.jpg, id=503, 9.71698pt x 9.71698pt>
+File: images/gestion-suppr.jpg Graphic file (type jpg)
+ <use images/gestion-suppr.jpg>
+Package pdftex.def Info: images/gestion-suppr.jpg used on input line 487.
+(pdftex.def)             Requested size: 9.71695pt x 9.71695pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--428
+<images/gestion-deroul.jpg, id=504, 12.75352pt x 13.96815pt>
+File: images/gestion-deroul.jpg Graphic file (type jpg)
+ <use images/gestion-deroul.jpg>
+Package pdftex.def Info: images/gestion-deroul.jpg used on input line 488.
+(pdftex.def)             Requested size: 12.75348pt x 13.9681pt.
+
+<images/gestion-enroul.jpg, id=505, 10.9316pt x 10.32428pt>
+File: images/gestion-enroul.jpg Graphic file (type jpg)
+ <use images/gestion-enroul.jpg>
+Package pdftex.def Info: images/gestion-enroul.jpg used on input line 489.
+(pdftex.def)             Requested size: 10.93155pt x 10.32423pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
 []|\T1/cmr/m/n/10 sup-modif-livraison-txt-heure-
  []
 
 
-Underfull \vbox (badness 10000) detected at line 428
+Overfull \hbox (39.94554pt too wide) in alignment at lines 470--491
+ [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--429
+Underfull \vbox (badness 10000) detected at line 491
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
 []|\T1/cmr/m/n/10 sup-modif-livraison-txt-heure-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--430
+Underfull \hbox (badness 10000) in paragraph at lines 493--493
 []|\T1/cmr/m/n/10 sup-modif-livraison-txt-
  []
 
+<images/ico-liv-dest.jpg, id=506, 10.32428pt x 11.53891pt>
+File: images/ico-liv-dest.jpg Graphic file (type jpg)
+ <use images/ico-liv-dest.jpg>
+Package pdftex.def Info: images/ico-liv-dest.jpg used on input line 496.
+(pdftex.def)             Requested size: 10.32423pt x 11.53886pt.
 
-Underfull \hbox (badness 2689) in paragraph at lines 437--437
+<images/ico-liv-pos.jpg, id=507, 20.64857pt x 23.07782pt>
+File: images/ico-liv-pos.jpg Graphic file (type jpg)
+ <use images/ico-liv-pos.jpg>
+Package pdftex.def Info: images/ico-liv-pos.jpg used on input line 497.
+(pdftex.def)             Requested size: 20.64851pt x 23.07774pt.
+
+<images/ico-liv-liv.jpg, id=508, 9.71698pt x 9.71698pt>
+File: images/ico-liv-liv.jpg Graphic file (type jpg)
+ <use images/ico-liv-liv.jpg>
+Package pdftex.def Info: images/ico-liv-liv.jpg used on input line 498.
+(pdftex.def)             Requested size: 9.71695pt x 9.71695pt.
+
+Underfull \hbox (badness 2689) in paragraph at lines 500--500
 []|\T1/cmr/m/n/10 Affichage de l'heure d'ar-ri-vée
  []
 
+<images/btn-liv-prob.jpg, id=509, 53.44336pt x 15.79008pt>
+File: images/btn-liv-prob.jpg Graphic file (type jpg)
+ <use images/btn-liv-prob.jpg>
+Package pdftex.def Info: images/btn-liv-prob.jpg used on input line 501.
+(pdftex.def)             Requested size: 53.44322pt x 15.79004pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--445
+<images/btn-liv-signalinc.jpg, id=510, 77.1285pt x 15.18277pt>
+File: images/btn-liv-signalinc.jpg Graphic file (type jpg)
+ <use images/btn-liv-signalinc.jpg>
+Package pdftex.def Info: images/btn-liv-signalinc.jpg used on input line 505.
+(pdftex.def)             Requested size: 77.1283pt x 15.18272pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []|\T1/cmr/m/n/10 livreur-dial-urgence-btn-
  []
 
-[36
+<images/btn-liv-signalbouc.jpg, id=511, 47.97757pt x 13.96815pt>
+File: images/btn-liv-signalbouc.jpg Graphic file (type jpg)
+ <use images/btn-liv-signalbouc.jpg>
+Package pdftex.def Info: images/btn-liv-signalbouc.jpg used on input line 506.
+(pdftex.def)             Requested size: 47.97743pt x 13.9681pt.
 
- <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/tools.png>]
-Underfull \hbox (badness 2012) in paragraph at lines 450--450
+<images/btn-liv-signalferm.jpg, id=512, 46.15562pt x 15.79008pt>
+File: images/btn-liv-signalferm.jpg Graphic file (type jpg)
+ <use images/btn-liv-signalferm.jpg>
+Package pdftex.def Info: images/btn-liv-signalferm.jpg used on input line 507.
+(pdftex.def)             Requested size: 46.15549pt x 15.79004pt.
+
+<images/btn-liv-arr.jpg, id=513, 65.58958pt x 15.79008pt>
+File: images/btn-liv-arr.jpg Graphic file (type jpg)
+ <use images/btn-liv-arr.jpg>
+Package pdftex.def Info: images/btn-liv-arr.jpg used on input line 509.
+(pdftex.def)             Requested size: 65.58942pt x 15.79004pt.
+
+Underfull \hbox (badness 2012) in paragraph at lines 511--511
 \T1/cmr/m/n/10 met-tant de sé-lec-tion-ner l'état
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 453--453
+Overfull \hbox (39.94554pt too wide) in alignment at lines 491--511
+ [] [] [] 
+ []
+
+[46
+
+]
+Underfull \hbox (badness 1199) in paragraph at lines 514--514
 \T1/cmr/m/n/10 met-tant l'in-di-quer si le client
  []
 
-[37] [38]
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 469--469
+<images/btn-liv-dep.jpg, id=520, 44.3337pt x 16.3974pt>
+File: images/btn-liv-dep.jpg Graphic file (type jpg)
+ <use images/btn-liv-dep.jpg>
+Package pdftex.def Info: images/btn-liv-dep.jpg used on input line 519.
+(pdftex.def)             Requested size: 44.33357pt x 16.39734pt.
+
+Overfull \hbox (39.94554pt too wide) in alignment at lines 511--521
+ [] [] [] 
+ []
+
+[47 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/btn-sec-valid.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/imag
+es/btn-sec-modif.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/btn-sec-suppr.jpg> <C:/Users/Ju/Documents/GitHub
+/dragibus-ihm/images/btn-sec-zone.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/btn-sec-afftout.jpg> <C:/Users/
+Ju/Documents/GitHub/dragibus-ihm/images/cal-sec-modif.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/gestion-sup
+pr.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/gestion-deroul.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm
+/images/gestion-enroul.jpg>] [48 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/ico-liv-dest.jpg> <C:/Users/Ju/Docume
+nts/GitHub/dragibus-ihm/images/ico-liv-pos.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/ico-liv-liv.jpg> <C:/U
+sers/Ju/Documents/GitHub/dragibus-ihm/images/btn-liv-prob.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/btn-liv
+-signalinc.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/btn-liv-signalbouc.jpg> <C:/Users/Ju/Documents/GitHub/
+dragibus-ihm/images/btn-liv-signalferm.jpg> <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/btn-liv-arr.jpg>]
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 530--530
 []|\T1/cmr/m/n/10 100| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 469--469
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 530--530
 []|\T1/cmr/m/n/10 200| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 470--470
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 531--531
 []|\T1/cmr/m/n/10 101| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 470--470
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 531--531
 []|\T1/cmr/m/n/10 201| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 471--471
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 532--532
 []|\T1/cmr/m/n/10 102| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 471--471
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 532--532
 []|\T1/cmr/m/n/10 202| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 472--472
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 533--533
 []|\T1/cmr/m/n/10 103| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 472--472
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 533--533
 []|\T1/cmr/m/n/10 203| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 473--473
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 534--534
 []|\T1/cmr/m/n/10 104| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 473--473
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 534--534
 []|\T1/cmr/m/n/10 204| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 474--474
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 535--535
 []|\T1/cmr/m/n/10 105| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 474--474
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 535--535
 []|\T1/cmr/m/n/10 205| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 475--475
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 536--536
 []|\T1/cmr/m/n/10 106| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 475--475
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 536--536
 []|\T1/cmr/m/n/10 206| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 476--476
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 537--537
 []|\T1/cmr/m/n/10 107| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 476--476
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 537--537
 []|\T1/cmr/m/n/10 207| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 477--477
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 538--538
 []|\T1/cmr/m/n/10 108| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 477--477
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 538--538
 []|\T1/cmr/m/n/10 208| 
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 478--478
+Underfull \hbox (badness 1688) in paragraph at lines 539--539
 []|\T1/cmr/m/n/10 Description de l'in-ci-
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 478--478
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 539--539
 []|\T1/cmr/m/n/10 109| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 478--478
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 539--539
 []|\T1/cmr/m/n/10 209| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 479--479
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 540--540
 []|\T1/cmr/m/n/10 110| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 479--479
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 540--540
 []|\T1/cmr/m/n/10 210| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 480--480
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 541--541
 []|\T1/cmr/m/n/10 111| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 480--480
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 541--541
 []|\T1/cmr/m/n/10 211| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 481--481
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 542--542
 []|\T1/cmr/m/n/10 112| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 481--481
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 542--542
 []|\T1/cmr/m/n/10 212| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
 []|\T1/cmr/m/n/10 Adresse <adresse-
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 482--482
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 543--543
 []|\T1/cmr/m/n/10 113| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 482--482
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 543--543
 []|\T1/cmr/m/n/10 213| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--483
+Underfull \hbox (badness 10000) in paragraph at lines 544--544
 []|\T1/cmr/m/n/10 Heure d'ar-ri-vée
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 483--483
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 544--544
 []|\T1/cmr/m/n/10 114| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 483--483
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 544--544
 []|\T1/cmr/m/n/10 214| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 484--484
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 545--545
 []|\T1/cmr/m/n/10 115| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 484--484
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 545--545
 []|\T1/cmr/m/n/10 215| 
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 484--484
+Underfull \hbox (badness 1127) in paragraph at lines 545--545
 []|\T1/cmr/m/n/10 Heure pré-vue de dé-
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 485--485
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 546--546
 []|\T1/cmr/m/n/10 116| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 485--485
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 546--546
 []|\T1/cmr/m/n/10 216| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--485
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
 []|\T1/cmr/m/n/10 Itinéraire : <iti-né-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
 []|\T1/cmr/m/n/10 Numéro à contac-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
 \T1/cmr/m/n/10 ter en cas d'ur-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
 \T1/cmr/m/n/10 gence <personne-à-
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 486--486
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 547--547
 []|\T1/cmr/m/n/10 117| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 486--486
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 547--547
 []|\T1/cmr/m/n/10 217| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
 []|\T1/cmr/m/n/10 Personne à contac-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--486
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
 \T1/cmr/m/n/10 ter <personne-à-
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 487--487
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 548--548
 []|\T1/cmr/m/n/10 118| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 487--487
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 548--548
 []|\T1/cmr/m/n/10 218| 
  []
 
 
-Overfull \hbox (16.23297pt too wide) in alignment at lines 466--487
+Overfull \hbox (16.23297pt too wide) in alignment at lines 527--548
  [] [] [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 487
+Underfull \vbox (badness 10000) detected at line 548
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 488--488
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 549--549
 []|\T1/cmr/m/n/10 119| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 488--488
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 549--549
 []|\T1/cmr/m/n/10 219| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
 []|\T1/cmr/m/n/10 Heure de li-vrai-son
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 489--489
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 550--550
 []|\T1/cmr/m/n/10 120| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 489--489
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 550--550
 []|\T1/cmr/m/n/10 220| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 490--490
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 551--551
 []|\T1/cmr/m/n/10 121| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 490--490
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 551--551
 []|\T1/cmr/m/n/10 221| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 491--491
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 552--552
 []|\T1/cmr/m/n/10 122| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 491--491
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 552--552
 []|\T1/cmr/m/n/10 222| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 492--492
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 553--553
 []|\T1/cmr/m/n/10 123| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 492--492
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 553--553
 []|\T1/cmr/m/n/10 223| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 493--493
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 554--554
 []|\T1/cmr/m/n/10 124| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 493--493
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 554--554
 []|\T1/cmr/m/n/10 224| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 494--494
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 555--555
 []|\T1/cmr/m/n/10 125| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 494--494
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 555--555
 []|\T1/cmr/m/n/10 225| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 495--495
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 556--556
 []|\T1/cmr/m/n/10 126| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 495--495
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 556--556
 []|\T1/cmr/m/n/10 226| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 496--496
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 557--557
 []|\T1/cmr/m/n/10 127| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 496--496
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 557--557
 []|\T1/cmr/m/n/10 227| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 497--497
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 558--558
 []|\T1/cmr/m/n/10 128| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 497--497
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 558--558
 []|\T1/cmr/m/n/10 228| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 498--498
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 559--559
 []|\T1/cmr/m/n/10 129| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 498--498
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 559--559
 []|\T1/cmr/m/n/10 229| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 499--499
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 560--560
 []|\T1/cmr/m/n/10 130| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 499--499
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 560--560
 []|\T1/cmr/m/n/10 230| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 500--500
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 561--561
 []|\T1/cmr/m/n/10 131| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 500--500
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 561--561
 []|\T1/cmr/m/n/10 231| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--501
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
 []|\T1/cmr/m/n/10 Besoin d'une dé-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--501
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
 \T1/cmr/m/n/10 pa-neuse et d'un
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 501--501
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 562--562
 []|\T1/cmr/m/n/10 132| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 501--501
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 562--562
 []|\T1/cmr/m/n/10 232| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 502--502
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 563--563
 []|\T1/cmr/m/n/10 133| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 502--502
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 563--563
 []|\T1/cmr/m/n/10 233| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 503--503
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 564--564
 []|\T1/cmr/m/n/10 134| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 503--503
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 564--564
 []|\T1/cmr/m/n/10 234| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 504--504
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 565--565
 []|\T1/cmr/m/n/10 135| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 504--504
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 565--565
 []|\T1/cmr/m/n/10 235| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 505--505
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 566--566
 []|\T1/cmr/m/n/10 136| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 505--505
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 566--566
 []|\T1/cmr/m/n/10 236| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 506--506
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 567--567
 []|\T1/cmr/m/n/10 137| 
  []
 
 
-Overfull \hbox (0.76997pt too wide) in paragraph at lines 506--506
+Overfull \hbox (0.76997pt too wide) in paragraph at lines 567--567
 []|\T1/cmr/m/n/10 237| 
  []
 
 
-Overfull \hbox (16.23297pt too wide) in alignment at lines 487--508
+Overfull \hbox (16.23297pt too wide) in alignment at lines 548--569
  [] [] [] [] [] [] 
  []
 
-[39] [40] [41]
-Overfull \hbox (48.33853pt too wide) in alignment at lines 518--525
+[49 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/btn-liv-dep.jpg>] [50] [51]
+Overfull \hbox (48.33853pt too wide) in alignment at lines 579--586
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 525
+Underfull \vbox (badness 10000) detected at line 586
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--534
+Underfull \hbox (badness 10000) in paragraph at lines 594--595
 \T1/cmr/m/n/10 "livreur-dial-urgence-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 535--536
+Underfull \hbox (badness 10000) in paragraph at lines 596--597
 \T1/cmr/m/n/10 "livreur-dial-urgence-btn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--538
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
 \T1/cmr/m/n/10 "livreur-dial-urgence-btn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--540
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
 \T1/cmr/m/n/10 "livreur-dial-urgence-btn-
  []
 
 
-Overfull \hbox (48.33853pt too wide) in alignment at lines 530--541
+Overfull \hbox (48.33853pt too wide) in alignment at lines 591--602
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 541
+Underfull \vbox (badness 10000) detected at line 602
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--549
+Underfull \hbox (badness 10000) in paragraph at lines 610--610
 []|\T1/cmr/m/n/10 1) confir-mer un
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--550
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
 \T1/cmr/m/n/10 "livreur-dial-bouchon-
  []
 
 
-Underfull \hbox (badness 5756) in paragraph at lines 550--550
+Underfull \hbox (badness 5756) in paragraph at lines 611--611
 []|\T1/cmr/m/n/10 ferme les dia-logues <<livreur-
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 550--550
+Underfull \hbox (badness 1735) in paragraph at lines 611--611
 \T1/cmr/m/n/10 dial-bouchon>> et <<livreur-dial-
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 551--551
+Underfull \hbox (badness 1448) in paragraph at lines 612--612
 []|\T1/cmr/m/n/10 2) aban-don-ner ou
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 551--552
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
 \T1/cmr/m/n/10 "livreur-dial-bouchon-
  []
 
 
-Overfull \hbox (48.33853pt too wide) in alignment at lines 546--553
+Overfull \hbox (48.33853pt too wide) in alignment at lines 607--614
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 553
+Underfull \vbox (badness 10000) detected at line 614
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
+Underfull \hbox (badness 10000) in paragraph at lines 622--623
 \T1/cmr/m/n/10 "livreur-dial-incident-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--564
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
 \T1/cmr/m/n/10 "livreur-dial-incident-
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 565--565
+Underfull \hbox (badness 2990) in paragraph at lines 626--626
 \T1/cmr/m/n/10 crip-tion de l'in-ci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--566
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
 \T1/cmr/m/n/10 "livreur-dial-incident-
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 566--566
+Underfull \hbox (badness 1052) in paragraph at lines 627--627
 []|\T1/cmr/m/n/10 ferme les dia-logues pré-ce-dents
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 567--567
+Underfull \hbox (badness 2990) in paragraph at lines 628--628
 \T1/cmr/m/n/10 crip-tion de l'in-ci-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 567--568
-\T1/cmr/m/n/10 "livreur-dial-incident-
- []
-
-
-Underfull \hbox (badness 1052) in paragraph at lines 568--568
-[]|\T1/cmr/m/n/10 ferme les dia-logues pré-ce-dents
- []
-
-
-Overfull \hbox (48.33853pt too wide) in alignment at lines 558--569
- [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 569
- []
-
-[42]
-Underfull \hbox (badness 1448) in paragraph at lines 580--580
-[]|\T1/cmr/m/n/10 2) aban-don-ner ou
- []
-
-
-Overfull \hbox (48.33853pt too wide) in alignment at lines 575--582
- [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 582
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 591--591
-\T1/cmr/m/n/10 ti-na-teur était dis-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 591--592
-\T1/cmr/m/n/10 "livreur-radio-client-
- []
-
-
-Underfull \hbox (badness 7379) in paragraph at lines 592--594
-\T1/cmr/m/n/10 si oui : montre le groupe
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 592--594
-\T1/cmr/m/n/10 fec-tué>> (livreur-radio-livraison-
- []
-
-
-Underfull \hbox (badness 5756) in paragraph at lines 592--594
-\T1/cmr/m/n/10 si non : montre le groupe
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 595--596
-\T1/cmr/m/n/10 "livreur-radio-livraison-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 595--596
-\T1/cmr/m/n/10 radio-livraison-effectuée-
- []
-
-
-Underfull \hbox (badness 6876) in paragraph at lines 596--598
-\T1/cmr/m/n/10 si non : montre la cel-lule
- []
-
-
-Underfull \hbox (badness 1137) in paragraph at lines 600--600
-\T1/cmr/m/n/10 sie, heure et mi-nute dans fs-
- []
-
-
-Underfull \hbox (badness 1735) in paragraph at lines 601--601
-[]|\T1/cmr/m/n/10 4) sai-sir la cause
- []
-
-
-Underfull \hbox (badness 1320) in paragraph at lines 602--602
-[]|\T1/cmr/m/n/10 affiche le texte en-tré dans le
- []
-
-
-Overfull \hbox (48.33853pt too wide) in alignment at lines 588--607
- [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 607
- []
-
-[43]
-Underfull \hbox (badness 1448) in paragraph at lines 618--618
-[]|\T1/cmr/m/n/10 2) aban-don-ner ou
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
-\T1/cmr/m/n/10 "livreur-dial-départ-
- []
-
-
-Overfull \hbox (48.33853pt too wide) in alignment at lines 613--620
- [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 620
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 628--629
-\T1/cmr/m/n/10 "secr-modif-select-
+\T1/cmr/m/n/10 "livreur-dial-incident-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 630--630
-[]|\T1/cmr/m/n/10 2) mo-di-fier
+Underfull \hbox (badness 1052) in paragraph at lines 629--629
+[]|\T1/cmr/m/n/10 ferme les dia-logues pré-ce-dents
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 630--630
-\T1/cmr/m/n/10 l'adresse de la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 630--631
-\T1/cmr/m/n/10 "secr-modif-zone-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 632--633
-\T1/cmr/m/n/10 "secr-modif-zone-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 638--639
-\T1/cmr/m/n/10 "secr-modif-bouton-
- []
-
-
-Overfull \hbox (48.33853pt too wide) in alignment at lines 625--642
+Overfull \hbox (48.33853pt too wide) in alignment at lines 619--630
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 642
+Underfull \vbox (badness 10000) detected at line 630
  []
 
-[44]
-Underfull \hbox (badness 2302) in paragraph at lines 650--650
-\T1/cmr/m/n/10 de route d'un li-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
-\T1/cmr/m/n/10 "sup-modif-select-feuille-
+[52]
+Underfull \hbox (badness 1448) in paragraph at lines 641--641
+[]|\T1/cmr/m/n/10 2) aban-don-ner ou
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 652--655
-\T1/cmr/m/n/10 "sup-modif-liste-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 652--655
-\T1/cmr/m/n/10 "sup-modif-livraison-ico-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--655
-[]|\T1/cmr/m/n/10 déroule la li-vrai-son choi-sie
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--655
-\T1/cmr/m/n/10 pour en af-fi-cher les in-for-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 655--655
-\T1/cmr/m/n/10 ma-tions(livraison, adresse et
- []
-
-
-Underfull \hbox (badness 6961) in paragraph at lines 655--655
-\T1/cmr/m/n/10 té-lé-phone), et la sé-lec-tionne
- []
-
-
-Underfull \hbox (badness 3354) in paragraph at lines 656--656
-[]|\T1/cmr/m/n/10 3) ca-cher les in-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 656--656
-\T1/cmr/m/n/10 for-ma-tions d'une
- []
-
-
-Underfull \hbox (badness 1845) in paragraph at lines 656--656
-\T1/cmr/m/n/10 li-vrai-son sé-lec-tion-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 656--659
-\T1/cmr/m/n/10 "sup-modif-liste-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 656--659
-\T1/cmr/m/n/10 "sup-modif-livraison-ico-
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 659--659
-[]|\T1/cmr/m/n/10 enroule la li-vrai-son pré-cé-dem-
- []
-
-
-Underfull \hbox (badness 2269) in paragraph at lines 659--659
-\T1/cmr/m/n/10 ment dé-rou-lée pour n'af-fi-cher
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--660
-\T1/cmr/m/n/10 d'une feuille de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--662
-\T1/cmr/m/n/10 "sup-modif-liste-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 662--662
-[]|\T1/cmr/m/n/10 > glissé-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 663--666
-\T1/cmr/m/n/10 "sup-modif-liste-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 663--666
-\T1/cmr/m/n/10 "sup-modif-livraison-ico-
- []
-
-
-Overfull \hbox (48.33853pt too wide) in alignment at lines 647--667
+Overfull \hbox (48.33853pt too wide) in alignment at lines 636--643
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 667
+Underfull \vbox (badness 10000) detected at line 643
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 675--676
-\T1/cmr/m/n/10 "secr-modif-select-
+Underfull \hbox (badness 1418) in paragraph at lines 652--652
+\T1/cmr/m/n/10 ti-na-teur était dis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--679
-[]|\T1/cmr/m/n/10 3) sup-pri-mer la
+Underfull \hbox (badness 10000) in paragraph at lines 652--653
+\T1/cmr/m/n/10 "livreur-radio-client-
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 679--679
-\T1/cmr/m/n/10 li-vrai-son sé-lec-tion-
+Underfull \hbox (badness 7379) in paragraph at lines 653--655
+\T1/cmr/m/n/10 si oui : montre le groupe
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 653--655
+\T1/cmr/m/n/10 fec-tué>> (livreur-radio-livraison-
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 653--655
+\T1/cmr/m/n/10 si non : montre le groupe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--657
+\T1/cmr/m/n/10 "livreur-radio-livraison-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--657
+\T1/cmr/m/n/10 radio-livraison-effectuée-
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 657--659
+\T1/cmr/m/n/10 si non : montre la cel-lule
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 661--661
+\T1/cmr/m/n/10 sie, heure et mi-nute dans fs-
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 662--662
+[]|\T1/cmr/m/n/10 4) sai-sir la cause
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 663--663
+[]|\T1/cmr/m/n/10 affiche le texte en-tré dans le
+ []
+
+
+Overfull \hbox (48.33853pt too wide) in alignment at lines 649--668
+ [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 668
+ []
+
+[53]
+Underfull \hbox (badness 1448) in paragraph at lines 679--679
+[]|\T1/cmr/m/n/10 2) aban-don-ner ou
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 679--680
-\T1/cmr/m/n/10 "secr-modif-btn-
+\T1/cmr/m/n/10 "livreur-dial-départ-
  []
 
 
-Overfull \hbox (48.33853pt too wide) in alignment at lines 672--683
+Overfull \hbox (48.33853pt too wide) in alignment at lines 674--681
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 683
+Underfull \vbox (badness 10000) detected at line 681
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 691--692
+
+Underfull \hbox (badness 10000) in paragraph at lines 689--690
 \T1/cmr/m/n/10 "secr-modif-select-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--695
-[]|\T1/cmr/m/n/10 3) sup-pri-mer la
+Underfull \hbox (badness 10000) in paragraph at lines 691--691
+[]|\T1/cmr/m/n/10 2) mo-di-fier
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 695--695
-\T1/cmr/m/n/10 li-vrai-son sé-lec-tion-
+Underfull \hbox (badness 10000) in paragraph at lines 691--691
+\T1/cmr/m/n/10 l'adresse de la
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--696
-\T1/cmr/m/n/10 "secr-modif-btn-
+Underfull \hbox (badness 10000) in paragraph at lines 691--692
+\T1/cmr/m/n/10 "secr-modif-zone-
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 700--700
-\T1/cmr/m/n/10 res-pon-dant à la zone géo-gra-
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
+\T1/cmr/m/n/10 "secr-modif-zone-
  []
 
 
-Overfull \hbox (48.33853pt too wide) in alignment at lines 688--701
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+\T1/cmr/m/n/10 "secr-modif-bouton-
+ []
+
+
+Overfull \hbox (48.33853pt too wide) in alignment at lines 686--703
  [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 701
+Underfull \vbox (badness 10000) detected at line 703
  []
 
-[46]
-Annexe A.
-
-Underfull \hbox (badness 10000) in paragraph at lines 710--711
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
-
+[54]
+Underfull \hbox (badness 2302) in paragraph at lines 711--711
+\T1/cmr/m/n/10 de route d'un li-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 714--715
-
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+\T1/cmr/m/n/10 "sup-modif-select-feuille-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 716--717
-
+Underfull \hbox (badness 10000) in paragraph at lines 713--716
+\T1/cmr/m/n/10 "sup-modif-liste-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 718--719
-
+Underfull \hbox (badness 10000) in paragraph at lines 713--716
+\T1/cmr/m/n/10 "sup-modif-livraison-ico-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 720--721
-
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
+[]|\T1/cmr/m/n/10 déroule la li-vrai-son choi-sie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 722--723
-
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
+\T1/cmr/m/n/10 pour en af-fi-cher les in-for-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 724--725
-
+Underfull \hbox (badness 10000) in paragraph at lines 716--716
+\T1/cmr/m/n/10 ma-tions(livraison, adresse et
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 726--727
-
+Underfull \hbox (badness 6961) in paragraph at lines 716--716
+\T1/cmr/m/n/10 té-lé-phone), et la sé-lec-tionne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 728--729
-
+Underfull \hbox (badness 3354) in paragraph at lines 717--717
+[]|\T1/cmr/m/n/10 3) ca-cher les in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 730--731
-
- []
-
-[47
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
-
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
+\T1/cmr/m/n/10 for-ma-tions d'une
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--735
+Underfull \hbox (badness 1845) in paragraph at lines 717--717
+\T1/cmr/m/n/10 li-vrai-son sé-lec-tion-
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--720
+\T1/cmr/m/n/10 "sup-modif-liste-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 717--720
+\T1/cmr/m/n/10 "sup-modif-livraison-ico-
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 720--720
+[]|\T1/cmr/m/n/10 enroule la li-vrai-son pré-cé-dem-
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 720--720
+\T1/cmr/m/n/10 ment dé-rou-lée pour n'af-fi-cher
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--721
+\T1/cmr/m/n/10 d'une feuille de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--723
+\T1/cmr/m/n/10 "sup-modif-liste-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--723
+[]|\T1/cmr/m/n/10 > glissé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--727
+\T1/cmr/m/n/10 "sup-modif-liste-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--727
+\T1/cmr/m/n/10 "sup-modif-livraison-ico-
+ []
+
+
+Overfull \hbox (48.33853pt too wide) in alignment at lines 708--728
+ [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 728
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 736--737
-
+\T1/cmr/m/n/10 "secr-modif-select-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 738--739
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+[]|\T1/cmr/m/n/10 3) sup-pri-mer la
+ []
 
+
+Underfull \hbox (badness 1845) in paragraph at lines 740--740
+\T1/cmr/m/n/10 li-vrai-son sé-lec-tion-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 740--741
-
+\T1/cmr/m/n/10 "secr-modif-btn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 742--743
-
+Overfull \hbox (48.33853pt too wide) in alignment at lines 733--744
+ [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 744--745
-
+Underfull \vbox (badness 10000) detected at line 744
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 746--747
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 748--749
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 750--751
-
- []
-
-
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 752--753
+\T1/cmr/m/n/10 "secr-modif-select-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+[]|\T1/cmr/m/n/10 3) sup-pri-mer la
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 756--756
+\T1/cmr/m/n/10 li-vrai-son sé-lec-tion-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--757
+\T1/cmr/m/n/10 "secr-modif-btn-
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 761--761
+\T1/cmr/m/n/10 res-pon-dant à la zone géo-gra-
+ []
+
+
+Overfull \hbox (48.33853pt too wide) in alignment at lines 749--762
+ [] [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 762
+ []
+
+[56]
+Chapitre 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 768--769
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 754--755
+Underfull \hbox (badness 10000) in paragraph at lines 770--771
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 756--767
+Underfull \hbox (badness 10000) in paragraph at lines 772--773
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 768--790
+Underfull \hbox (badness 10000) in paragraph at lines 775--776
 
  []
 
-[48] [49]
-Annexe B.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 796.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [50
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--778
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 779--780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--788
+
+ []
+
+[57
 
 ]
-Overfull \hbox (25.14618pt too wide) in paragraph at lines 902--902
+Underfull \hbox (badness 10000) in paragraph at lines 791--792
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 798--799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--803
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--809
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 806--809
+
+ []
+
+[58]
+Annexe A.
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 821--822
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--828
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--832
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--834
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--836
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 837--838
+
+ []
+
+[59
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 841--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--846
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--850
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 851--852
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--854
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 855--856
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--858
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 861--862
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 863--864
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 865--866
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--868
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--870
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--872
+
+ []
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 873--874
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 875--876
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--878
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--880
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--882
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--895
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 896--918
+
+ []
+
+[61] [62]
+Annexe B.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 924.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [63
+
+]
+Overfull \hbox (25.14618pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EIdentLivraison           ((EdbIl), (IdentifiantLivreur), (EfnIl))>[] 
  []
 
 
-Overfull \hbox (9.40002pt too wide) in paragraph at lines 902--902
+Overfull \hbox (9.40002pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EIndiceBouchon            ((EdbIb), (InfoIndice), (GpsPosition),[] 
  []
 
 
-Overfull \hbox (14.64874pt too wide) in paragraph at lines 902--902
+Overfull \hbox (14.64874pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EIndiceIncident           ((EdbIi), (InfoIndice), (CodeIncident),[] 
  []
 
 
-Overfull \hbox (56.63849pt too wide) in paragraph at lines 902--902
+Overfull \hbox (56.63849pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT InfoIndice                ((IdLivreur), (IdLivraison), (IdFeuilleRoute))>[] 
  []
 
-[51]
-Overfull \hbox (46.14105pt too wide) in paragraph at lines 902--902
+[64]
+Overfull \hbox (46.14105pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EEnregLivraison           ((EdbEl), (Livraison), (IdLivreur), (EfnEl))>[] 
  []
 
 
-Overfull \hbox (4.1513pt too wide) in paragraph at lines 902--902
+Overfull \hbox (4.1513pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT IdentifiantSuperviseur    ((NomSuperviseur), (MdpSuperviseur))>[] 
  []
 
 
-Overfull \hbox (25.14618pt too wide) in paragraph at lines 902--902
+Overfull \hbox (25.14618pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EConsultEtatLivraison     ((EdbCel), (IdSuperviseur), (IdCommande),[] 
  []
 
 
-Overfull \hbox (35.64362pt too wide) in paragraph at lines 902--902
+Overfull \hbox (35.64362pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EGenereFeuilleRoute       ((EdbGfr), (IdSuperviseur), (LoginLivreur),[] 
  []
 
 
-Overfull \hbox (25.14618pt too wide) in paragraph at lines 902--902
+Overfull \hbox (25.14618pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EEnregFeuilleRoute        ((EdbEfr), (IdFeuilleRoute), (IdLivreur),[] 
  []
 
 
-Overfull \hbox (35.64362pt too wide) in paragraph at lines 902--902
+Overfull \hbox (35.64362pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EChangOrdreLivraison      ((EdbCol), (IdFeuilleRoute), (IdLivraison),[] 
  []
 
 
-Overfull \hbox (46.14105pt too wide) in paragraph at lines 902--902
+Overfull \hbox (46.14105pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EValideFeuilleRoute       ((EdbVfr), (IdFeuilleRoute), (IdSuperviseur),[] 
  []
 
 
-Overfull \hbox (46.14105pt too wide) in paragraph at lines 902--902
+Overfull \hbox (46.14105pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EPapierFeuilleRoute       ((EdbPfr), (IdFeuilleRoute), (IdSuperviseur),[] 
  []
 
 
-Overfull \hbox (51.38977pt too wide) in paragraph at lines 902--902
+Overfull \hbox (51.38977pt too wide) in paragraph at lines 1030--1030
 []    \T1/cmtt/m/n/10 <!ELEMENT EAnulModifFeuilleRoute    ((EdbAmfr), (IdFeuilleRoute), (IdSuperviseur),[] 
  []
 
-[52]
+[65]
 Annexe C.
-[53
+<images/croquismodif.jpg, id=633, 595.5048pt x 370.0224pt>
+File: images/croquismodif.jpg Graphic file (type jpg)
+ <use images/croquismodif.jpg>
+Package pdftex.def Info: images/croquismodif.jpg used on input line 1037.
+(pdftex.def)             Requested size: 416.85052pt x 259.0139pt.
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1038
+
+ []
+
+
+Overfull \hbox (16.85052pt too wide) in paragraph at lines 1035--1038
+[] 
+ []
+
+[66
+
+ <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/croquismodif.jpg>]
+<images/croquisfeuille.jpg, id=640, 597.6729pt x 845.3181pt>
+File: images/croquisfeuille.jpg Graphic file (type jpg)
+ <use images/croquisfeuille.jpg>
+Package pdftex.def Info: images/croquisfeuille.jpg used on input line 1044.
+(pdftex.def)             Requested size: 328.7211pt x 464.92639pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1045
+
+ []
+
+[67 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/croquisfeuille.jpg>]
+<images/croquisgestion.jpg, id=646, 597.6729pt x 845.3181pt>
+File: images/croquisgestion.jpg Graphic file (type jpg)
+ <use images/croquisgestion.jpg>
+Package pdftex.def Info: images/croquisgestion.jpg used on input line 1051.
+(pdftex.def)             Requested size: 328.7211pt x 464.92639pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1052
+
+ []
+
+[68 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/croquisgestion.jpg>]
+<images/croquislivreur.jpg, id=652, 2095.83pt x 3149.7675pt>
+File: images/croquislivreur.jpg Graphic file (type jpg)
+ <use images/croquislivreur.jpg>
+Package pdftex.def Info: images/croquislivreur.jpg used on input line 1058.
+(pdftex.def)             Requested size: 335.33965pt x 503.9731pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1059
+
+ []
+
+[69 <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/croquislivreur.jpg>]
 Annexe D.
+<images/gant.jpg, id=658, 741.52031pt x 431.36156pt>
+File: images/gant.jpg Graphic file (type jpg)
+ <use images/gant.jpg>
+Package pdftex.def Info: images/gant.jpg used on input line 1064.
+(pdftex.def)             Requested size: 444.91562pt x 258.81892pt.
+
+Overfull \hbox (59.91562pt too wide) in paragraph at lines 1064--1065
+[][] 
+ []
+
 
 AED: lastpage setting LastPage
-[54
+[70
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 910.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 910.
- (C:\Users\Ju\Documents\GitHub\dragibus-ihm\IHM_LaTeX.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 910.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 910.
+ <C:/Users/Ju/Documents/GitHub/dragibus-ihm/images/gant.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1068.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1068.
+
+(C:\Users\Ju\Documents\GitHub\dragibus-ihm\IHM_LaTeX.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1068.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1068.
 Package rerunfilecheck Info: File `IHM_LaTeX.out' has not changed.
-(rerunfilecheck)             Checksum: 3361DA271BE104DF3AE688BA2D43501F;2662.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 910.
+(rerunfilecheck)             Checksum: D3DC9F880B3882B3E9E835BEAC117416;2992.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1068.
  ) 
 Here is how much of TeX's memory you used:
- 8230 strings out of 493921
- 121816 string characters out of 3144885
- 257137 words of memory out of 3000000
- 11242 multiletter control sequences out of 15000+200000
+ 8443 strings out of 493921
+ 127235 string characters out of 3144885
+ 258136 words of memory out of 3000000
+ 11384 multiletter control sequences out of 15000+200000
  15861 words of font info for 36 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  41i,9n,51p,651b,548s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2415,9 +2861,9 @@ cm-super/sfbx2074.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-s
 )/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfr
 m1200.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/cm-super/sfti1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on IHM_LaTeX.pdf (55 pages, 4298064 bytes).
+Output written on IHM_LaTeX.pdf (71 pages, 7106611 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 133 named destinations out of 1000 (max. 500000)
- 395 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 735 PDF objects out of 1000 (max. 8388607)
+ 171 named destinations out of 1000 (max. 500000)
+ 597 words of extra memory for PDF output out of 10000 (max. 10000000)
 

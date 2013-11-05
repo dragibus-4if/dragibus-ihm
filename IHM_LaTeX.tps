@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=IHM_LaTeX.tex
 
 [Frame0_View0,0]
-TopLine=632
-Cursor=32605
+TopLine=390
+Cursor=16142
 
 [SessionInfo]
 FrameCount=1

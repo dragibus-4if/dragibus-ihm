@@ -26,7 +26,7 @@
 \maketitle
 
 
-\newpage
+\pagebreak
 ~~\\
 \textbf{Equipe Dragibus} : Hexanôme H4104 \\
 Patrizia Peller\\
@@ -263,7 +263,7 @@ L'ensemble de l'équipe a travaillé sur : TC / U, TU / C et D-COM\\
 
 Cet ensemble de descriptions permet la concrétisation précise des commandes à implémenter, données pour un ou plusieurs utilisateurs.
 
-\newpage
+\pagebreak
 
 \section{Planification Hiérarchique de la Tâche Utilisateur Approfondie}
 
@@ -349,9 +349,9 @@ r-erreur-ident-livraison :: rdb-eil, r-action-confi-erreur | r-action-abort, rfb
 home-livreur :: \\
 r-affiche-feuille-route :: livraison*\\
 
-La DTD tirée de ce ... est présente en Annexe \ref{labDTD}.
+La DTD tirée de cette spécification syntaxique est présente en Annexe \ref{labDTD}.
 
-\newpage
+\pagebreak
 
 \section{Diagramme d'Enchaînement des Fenêtres}
 
@@ -379,7 +379,67 @@ La DTD tirée de ce ... est présente en Annexe \ref{labDTD}.
 \includegraphics[scale = 0.2]{images/g-livreur.jpg}
 \end{center}
 
-\section{Diagramme d'Etats des Classes}
+\section{Diagramme d'Etat des Classes}
+
+\subsection{Digrammes concernant le livreur}
+~~\\
+~~\\
+\includegraphics[scale = 0.75]{images/dec-livreur-principale.jpg}
+
+\paragraph{}
+
+\includegraphics[scale = 0.75]{images/dec-livreur-probleme.jpg}
+
+\paragraph{}
+
+\includegraphics[scale = 0.75]{images/dec-livreur-bouchon.jpg}
+
+\paragraph{}
+
+\includegraphics[scale = 0.5, angle = 90]{images/dec-livreur-incident.jpg}
+
+\paragraph{}
+
+\includegraphics[scale = 0.75]{images/dec-livreur-conf-arrive.jpg}
+
+\paragraph{}
+
+\includegraphics[scale = 0.5, angle = 90]{images/dec-livreur-infos.jpg}
+
+\subsection{Diagrammes concernant la secrétaire}
+
+~~\\
+~~\\
+\includegraphics[scale = 0.5, angle = 90]{images/dec-secretaire-principale.jpg}
+
+\paragraph{}
+
+\includegraphics[scale = 0.5, angle = 90]{images/dec-secretaire-modif.jpg}
+
+
+\subsection{Diagrammes concernant le superviseur}
+
+~~\\
+~~\\
+\includegraphics[scale = 0.5, angle = 90]{images/dec-superviseur-principale.jpg}
+
+\paragraph{}
+
+\includegraphics[scale = 0.5, angle = 90]{images/dec-superviseur-modif.jpg}
+
+
+
+\paragraph{sup-zone-geo}
+~~\\
+~~\\
+\includegraphics[scale = 0.5, angle = 0]{images/dec-sup-zone-geo.jpg}
+
+\paragraph{}
+
+\paragraph{sup-fdr-liv}
+~~\\
+~~\\
+\includegraphics[scale = 0.5, angle = 0]{images/dec-sup-fdr-liv.jpg}
 
 
 
@@ -404,59 +464,60 @@ Q Coursodon a collaboré sur LxqOG et a pris en charge la conception de l'IHM d�
 
 \section{Lexique des Objets Graphiques}
 
+ND. désigne les zones dont les dessins ne sont pas définis.
+~~\\
+
 \begin{longtable}{|p{5cm}|p{5cm}|c|}
 \hline
 Identificateur&Description&Dessin\\\hline
-secr-modif-select-livraison&Zone de saisie permettant le choix de la livraison à modifier&\includegraphics{images/tools.png}\\\hline
-secr-modif-zone-adresse&Zone de saisie de l'adresse de destination de la livraison&\\\hline
-secr-modif-zone-urgence&Zone de saisie de la personne à contacter en cas d'urgence pendant la livraison&\\\hline
-secr-modif-zone-date&Zone de saisie de la date de la livraison&\\\hline
-secr-modif-zone-heure&Zone de saisie de l'heure de la livraison&\\\hline
-secr-modif-btn-validation&Bouton de validation des modifications de la livraison&\\\hline
-secr-modif-btn-modifier&Bouton de modification de la livraison sélectionnée&\\\hline	
-secr-modif-btn-supprimer&Bouton de suppresion de la livraison sélectionnée&\\\hline	
-secr-modif-btn-affzone&Bouton d'affichage des livraisons par zone géographique&\\\hline	
-secr-modif-btn-afftout&Bouton d'affichage de toutes les livraisons&\\\hline	
-secr-modif-calendrier&Calendrier de choix d'une date aidant la saisie de la date de la livraison&\\\hline
-sup-modif-select-feuille-route&Liste déroulante de choix de la feuille de route à visualiser/modifier&\\\hline
-sup-modif-liste-livraison&Liste des livraisons ordonnées à faire pour la feuille de route choisie&\\\hline
-sup-modif-livraison&Element coloré de la liste des livraisons&\\\hline
-sup-modif-livraison-ico-suppr&Icône de suppression de la livraison&\\\hline
-sup-modif-livraison-ico-deroul&Icône de déroulement des informations détaillées sur la livraison&\\\hline
-sup-modif-livraison-ico-enroul&Icône d'enroulement des informations détaillées sur la livraison&\\\hline
-sup-modif-livraison-txt-adresse&Etiquette indiquant l'adresse de livraison&\\\hline
-sup-modif-livraison-txt-heure-arrive&Etiquette indiquant l'heure d'arrivé de la livraison&\\\hline
-sup-modif-livraison-txt-heure-depart&Etiquette indiquant l'heure de départ de la livraison&\\\hline
-sup-modif-livraison-txt-itineraire&Etiquette indiquant l'itinéraire à suivre pour livrer le colis&\\\hline
-sup-modif-livraison-txt-urgence&Etiquette indiquant la personne à contacter en cas d'urgence&\\\hline
-sup-modif-map-vue&Vue aérienne de la carte de navigation.&\\\hline
-sup-modif-map-ico-dest&Icône représentant un destinataire sur la carte de navigation.&\\\hline
-sup-modif-map-ico-livreur&Icône représentant le livreur sur la carte de navigation&\\\hline
-sup-modif-map-ico-depot&Icône représentant le dépôt sur la carte de navigation&\\\hline
-livreur-heure-courante&"Affichage de l'heure courante, changeant en temps réel."&\\\hline
-livreur-heure-arrivée&Affichage de l'heure d'arrivée prévue.&\\\hline
-livreur-ico-probleme&"Icône représentant un incident, servant à accéder au dialogue "urgence"&\\\hline
-livreur-adresse&Affichage de l'adresse du destinataire.&\\\hline
-livreur-map-vue&Vue aérienne de la carte de navigation.&\\\hline
-livreur-map-ico-dest&Icône représentant un destinataire sur la carte de navigation.&\\\hline
-livreur-map-ico-livreur&Icône représentant le livreur sur la carte de navigation.&\\\hline
-livreur-dial-urgence-numéro&"Affichage du numéro à appeler en cas d'urgence sur le dialogue "urgence"&\\\hline
-livreur-dial-urgence-btn-incident&"Bouton servant au signalement d'un incident à partir du dialogue ""urgence"&\\\hline
-livreur-dial-urgence-btn-bouchon&"Bouton servant au signalement d'un bouchon à partir du dialogue ""urgence"&\\\hline
-livreur-dial-urgence-btn-fermer&"Bouton servant à fermer le dialogue ""urgence"&\\\hline
-livreur-dial-bouchon&Dialogue permettant de confirmer si on est effectivement dans un bouchon.&\\\hline
-livreur-btn-arrivé&Bouton servant à indiquer l'arrivée à la destination.&\\\hline
-livreur-dial-incident-description&Zone de saisie décrivant l'incident rencontré.&\\\hline
-livreur-dial-incident-état&Zone de sélection multiple permettant de sélectionner l'état après l'incident.&\\\hline
-livreur-dial-incident-signaler&Groupe de boutons permettant de confirmer le signalement d'un incident.&\\\hline
-livreur-dial-arrivé&Dialogue permettant de confirmer si on est effectivement arrivé.&\\\hline
-livreur-radio-client-présent&Zone de sélection multiple permettant l'indiquer si le client était présent pour la livraison.&\\\hline
-livreur-radio-livraison-effectuée&Zone de sélection multiple permettant l'indiquer si la livraison a été effectuée. Cet élément peut être désactivé et est grisé dans ce cas.&\\\hline
-livreur-heure-livraison&Zone de saisie de l'heure de livraison, remplie par défaut avec l'heure à laquelle l'arrivée a été signalée.&\\\hline
-livreur-txt-cause&Zone de saisie de la cause d'incident empêchant la livraison. Cet élément peut être désactivé et est grisé dans ce cas.&\\\hline
-livreur-heure-départ&Affichage de l'heure de départ prévue pour la prochaine livraison. Cet affichage est coloré en rouge si l'heure est passée, en vert dans le cas contraire.&\\\hline
-livreur-btn-départ&Bouton servant à signaler le départ d'un lieu de livraison, enclanchant la navigation pour la livraison suivante.&\\\hline
-livreur-dial-départ&Dialogue servant à confirmer la saise d'informations sur la livraison actuelle pour lancer la navigation pour la livraison suivante (confirmation oui/non).&\\\hline
+secr-modif-select-livraison&Zone de saisie permettant le choix de la livraison à modifier&ND.\\\hline
+secr-modif-zone-adresse&Zone de saisie de l'adresse de destination de la livraison&ND.\\\hline
+secr-modif-zone-urgence&Zone de saisie de la personne à contacter en cas d'urgence pendant la livraison&ND.\\\hline
+secr-modif-zone-date&Zone de saisie de la date de la livraison&ND.\\\hline
+secr-modif-zone-heure&Zone de saisie de l'heure de la livraison&ND.\\\hline
+secr-modif-btn-validation&Bouton de validation des modifications de la livraison&\includegraphics{images/btn-sec-valid.jpg}\\\hline
+secr-modif-btn-modifier&Bouton de modification de la livraison sélectionnée&\includegraphics{images/btn-sec-modif.jpg}\\\hline	
+secr-modif-btn-supprimer&Bouton de suppresion de la livraison sélectionnée&\includegraphics{images/btn-sec-suppr.jpg}\\\hline	
+secr-modif-btn-affzone&Bouton d'affichage des livraisons par zone géographique&\includegraphics{images/btn-sec-zone.jpg}\\\hline	
+secr-modif-btn-afftout&Bouton d'affichage de toutes les livraisons&\includegraphics{images/btn-sec-afftout.jpg}\\\hline	
+secr-modif-calendrier&Calendrier de choix d'une date aidant la saisie de la date de la livraison&\includegraphics{images/cal-sec-modif.jpg}\\\hline
+sup-modif-select-feuille-route&Liste déroulante de choix de la feuille de route à visualiser/modifier&ND.\\\hline
+sup-modif-liste-livraison&Liste des livraisons ordonnées à faire pour la feuille de route choisie&ND.\\\hline
+sup-modif-livraison&Element coloré de la liste des livraisons&ND.\\\hline
+sup-modif-livraison-ico-suppr&Icône de suppression de la livraison&\includegraphics{images/gestion-suppr.jpg}\\\hline
+sup-modif-livraison-ico-deroul&Icône de déroulement des informations détaillées sur la livraison&\includegraphics{images/gestion-deroul.jpg}\\\hline
+sup-modif-livraison-ico-enroul&Icône d'enroulement des informations détaillées sur la livraison&\includegraphics{images/gestion-enroul.jpg}\\\hline
+sup-modif-livraison-txt-adresse&Etiquette indiquant l'adresse de livraison&ND.\\\hline
+sup-modif-livraison-txt-heure-arrive&Etiquette indiquant l'heure d'arrivé de la livraison&ND.\\\hline
+sup-modif-livraison-txt-heure-depart&Etiquette indiquant l'heure de départ de la livraison&ND.\\\hline
+sup-modif-livraison-txt-itineraire&Etiquette indiquant l'itinéraire à suivre pour livrer le colis&ND.\\\hline
+sup-modif-livraison-txt-urgence&Etiquette indiquant la personne à contacter en cas d'urgence&ND.\\\hline
+sup-modif-map-vue&Vue aérienne de la carte de navigation.&ND.\\\hline
+sup-modif-map-ico-dest&Icône représentant un destinataire sur la carte de navigation.&\includegraphics{images/ico-liv-dest.jpg}\\\hline
+sup-modif-map-ico-livreur&Icône représentant le livreur sur la carte de navigation&\includegraphics{images/ico-liv-pos.jpg}\\\hline
+sup-modif-map-ico-depot&Icône représentant le dépôt sur la carte de navigation&\includegraphics{images/ico-liv-liv.jpg}\\\hline
+livreur-heure-courante&"Affichage de l'heure courante, changeant en temps réel."&ND.\\\hline
+livreur-heure-arrivée&Affichage de l'heure d'arrivée prévue.&ND.\\\hline
+livreur-ico-probleme&"Icône représentant un incident, servant à accéder au dialogue "urgence"&\includegraphics{images/btn-liv-prob.jpg}\\\hline
+livreur-adresse&Affichage de l'adresse du destinataire.&ND.\\\hline
+livreur-map-vue&Vue aérienne de la carte de navigation.&ND.\\\hline
+livreur-dial-urgence-numéro&"Affichage du numéro à appeler en cas d'urgence sur le dialogue "urgence"&ND.\\\hline
+livreur-dial-urgence-btn-incident&"Bouton servant au signalement d'un incident à partir du dialogue ""urgence"&\includegraphics{images/btn-liv-signalinc.jpg}\\\hline
+livreur-dial-urgence-btn-bouchon&"Bouton servant au signalement d'un bouchon à partir du dialogue ""urgence"&\includegraphics{images/btn-liv-signalbouc.jpg}\\\hline
+livreur-dial-urgence-btn-fermer&"Bouton servant à fermer le dialogue ""urgence"&\includegraphics{images/btn-liv-signalferm.jpg}\\\hline
+livreur-dial-bouchon&Dialogue permettant de confirmer si on est effectivement dans un bouchon.&ND.\\\hline
+livreur-btn-arrivé&Bouton servant à indiquer l'arrivée à la destination.&\includegraphics{images/btn-liv-arr.jpg}\\\hline
+livreur-dial-incident-description&Zone de saisie décrivant l'incident rencontré.&ND.\\\hline
+livreur-dial-incident-état&Zone de sélection multiple permettant de sélectionner l'état après l'incident.&ND.\\\hline
+livreur-dial-incident-signaler&Groupe de boutons permettant de confirmer le signalement d'un incident.&ND.\\\hline
+livreur-dial-arrivé&Dialogue permettant de confirmer si on est effectivement arrivé.&ND.\\\hline
+livreur-radio-client-présent&Zone de sélection multiple permettant l'indiquer si le client était présent pour la livraison.&ND.\\\hline
+livreur-radio-livraison-effectuée&Zone de sélection multiple permettant l'indiquer si la livraison a été effectuée. Cet élément peut être désactivé et est grisé dans ce cas.&ND.\\\hline
+livreur-heure-livraison&Zone de saisie de l'heure de livraison, remplie par défaut avec l'heure à laquelle l'arrivée a été signalée.&ND.\\\hline
+livreur-txt-cause&Zone de saisie de la cause d'incident empêchant la livraison. Cet élément peut être désactivé et est grisé dans ce cas.&ND.\\\hline
+livreur-heure-départ&Affichage de l'heure de départ prévue pour la prochaine livraison. Cet affichage est coloré en rouge si l'heure est passée, en vert dans le cas contraire.&ND.\\\hline
+livreur-btn-départ&Bouton servant à signaler le départ d'un lieu de livraison, enclanchant la navigation pour la livraison suivante.&\includegraphics{images/btn-liv-dep.jpg}\\\hline
+livreur-dial-départ&Dialogue servant à confirmer la saise d'informations sur la livraison actuelle pour lancer la navigation pour la livraison suivante (confirmation oui/non).&ND.\\\hline
 \end{longtable}
 
 
@@ -507,7 +568,7 @@ N.&Texte/Livreur&N.&Texte/Secrétaire&N.&Texte/Superviseur\\\hline
 
 \end{longtable}
 
-\newpage
+\pagebreak
 
 \section{Tableau ICAR de l'IHM}
 
@@ -701,6 +762,54 @@ Itention&Contrôle&Action&Réponse\\\hline
 \end{longtable}
 
 
+\chapter{Conclusion sur le projet}
+
+\paragraph{\textbf{Bilan :}}
+~~\\
+
+Voilà un mois de passé depuis l'initiation de ce projet, et sans surprise, de nombreuses choses ont changé, bougé. Ces modifications ont toutes été prises d'un commun accord entre les membres du groupe, ou tout du moins entre les membres concernés et moi-même.\\
+
+Voici une liste exhaustive des différences marquantes : \\
+
+\begin{itemize}
+	\item Dans la fenêtre d'affichage de toutes les livraisons, et des livraisons par zone géographique, des modifications ont pu être observées par souci de simplification et de lisibilité : la suppression des champs \textit{"client"}, \textit{"N."} pour tout rassembler au sein de \textit{"Livraison"} ; la supression des boutons \textit{"Modifier"} et \textit{"Supprimer"} au niveau de chaque livraison pour les déplacer de manière globale en bas de la fenêtre.\\
+	
+	\item De nombreux tableaux complexes, présentés au sein de ce rapport, ont été importés sous forme d'image en lieu et place de l'établissement de tableaux LaTeX, par défaut de temps, et par souci de simplification. Ceci entraine malheureusement une légère difficulté de lecture si l'on regarde une version papier du rapport, mais n'en est rien sur une version électronique.\\
+	
+	\item Certains éléments du Glossaire de ce rapport n'ont pas été décris spécifiquements, des liens vers leur description plus précise ont été insérés en lieu et place.\\
+\end{itemize}
+
+~~\\
+
+\paragraph{\textbf{Appréciation sur le travail :}}
+~~\\
+
+Il est aisé de mesurer le travail effectué de part la satisfaction que l'équipe retire de ce premier projet de grande envergure : nous le pensons très complet, voir à toute épreuve pour certaines de ses parties particulièrement fines (D-COM, DEC, DEF, TICAR).\\
+
+Il y a bien sur quelques points sur lesquels nous aurions pu travailler différement (par exemple moins approfondir sur certaines parties, car nous avons aisément dépassé le temps moyen de travail par étudiant visé en début de projet).
+
+~~\\
+
+\paragraph{\textbf{Appréciation sur le sujet :}}
+~~\\
+
+La méthode utilisée permet de définir très précisément et en profondeur l'IHM, ce qui semble à la fois nécessaire et agréable pour l'établissement de cette dernière.\\
+
+Cependant, nous pensons que nous passons un temps conséquent à définir l'IHM sans pour autant l'avoir en tête (et donc en image), de manière de plus en plus précise. Ce manque de visibilité concrète, évolutive, peut être perturbant pour certains au cours de la conception.\\
+
+L'aspect le plus difficile de ce projet, de part sa grande diversité et son envergure importante, a été de se remettre en permanence dans le contexte du projet (contexte que nous quittions par la présence d'autres projets, d'autres cours), ceci imposant un temps de réadaptation nécessaire coûteux en temps de travail.
+
+~~\\
+
+\paragraph{}
+
+Je tiens à remercier par dessus tout l'ensemble de l'équipe pour son immense implication dans le projet.
+~~\\
+~~\\
+
+\hfill Julien Rollet, Chef de Projet
+
+
 \begin{appendices}
 
 
@@ -716,8 +825,6 @@ Commande de livraison (objet) : demande de la réalisation d’une livraison, av
 Feuille de route (objet) : Ensemble des informations (carte, horaire) décrivant la journée d’un livreur. \\
 
 Utilisateur: tous les différents genres de personnes qui vont se servir du système, précisé: le client, l’expéditeur, le destinataire, le superviseur, le livreur, le secrétaire, le directeur\\
-
-Directeur (objet):\\
 
 Client (objet) :  ce terme désigne toute personne ayant fait acte de l’envoi ou la réception d’une livraison. Il utilisera l’IHM web des clients pour commander ou vérifier une livraison. \\
 
@@ -739,8 +846,6 @@ Colis (objet) : Objet à valeur marchande remis d’un expéditeur à un destina
 
 État de la livraison : une livraison peut être planifiée, en cours ou terminée.\\
 
-Mauvais état d’un colis: \\
-
 Interface gestion livraison : Élément logiciel permettant l’interaction entre le système et le superviseur lors des tâches du domaine fonctionnel “Gestion des livraisons”.\\
 
 Interface supervision : cf interface gestion livraison\\
@@ -751,7 +856,30 @@ Plage horaire : Période de temps pendant laquelle un livreur doit remettre un c
 
 Date de livraison : cf plage horaire.\\
 
-L’ordonnancement des livraisons:\\
+Dialogue : élément d’interface logicielle constitué d’une fenêtre invitant l’utilisateur à rentrer une ou plusieurs commandes.\\
+
+Bouchon : incident causé par de mauvaises conditions de circulation routière pouvant ralentir une livraison.\\
+
+Urgences : services de secours appelés lorsqu’un incident grave ( accident routier) se produit.\\
+
+Centrale : service de gestion informatique de l’entreprise de transport utilisatrice OptiFret.\\
+
+Disponibilité du destinataire : un destinataire est dit disponible lorsqu’il est à même de réceptionner son colis à l’arrivée du livreur.\\
+
+Ordre d’une feuille de route : ordre chronologique suivant lequel sont effectuées les livraisons d’une même feuille de route.\\
+
+Zone géographique : zone regroupant les adresses de destination de différentes livraisons définies comme relativement proches les une des autres par rapport aux livraisons associées à d’autres zones géographiques.\\
+
+Carte de navigation : carte géographique affichant les adresses relatives aux livraisons effectuées par un livreur pour une même feuille de route ainsi que l’itinéraire associé.\\
+
+Dépôt : endroit dans lequel sont stockés les colis à livrer.\\
+
+Ordonnancement des livraisons : voir ordre d’une feuille de route.\\
+
+Commande (action) : action de l’utilisateur sur le système via l’interface graphique.\\
+
+Réclamation : observation à caractère négatif émise par un client à propos d’une livraison ( exemples : non-respect des horaires, mavais état du colis … ).\\
+
 
 Liste des Principaux Objets Utilisateurs (objets) :\\
 u-adresse \\
@@ -903,7 +1031,37 @@ Pour la description de ces commandes, se référer à la \hyperlink{labDCOM}{Des
 
 \chapter{Croquis de définition de l'IHM}
 
+\paragraph{Modification d'une livraison}
+~~\\
+~~\\
+\includegraphics[scale = 0.7]{images/croquismodif.jpg}
+
+\pagebreak
+
+\paragraph{Listing des livraisons}
+~~\\
+~~\\
+\includegraphics[scale = 0.55]{images/croquisfeuille.jpg}
+
+\pagebreak
+
+\paragraph{Gestion des feuilles de route}
+~~\\
+~~\\
+\includegraphics[scale = 0.55]{images/croquisgestion.jpg}
+
+\pagebreak
+
+\paragraph{IHM du livreur}
+~~\\
+~~\\
+\includegraphics[scale = 0.16]{images/croquislivreur.jpg}
+
+
+
 \chapter{Diagramme de Gant du Projet}
+
+\includegraphics[scale = 0.6]{images/gant.jpg}
 
 \end{appendices}
 

@@ -22,12 +22,16 @@
 \BOOKMARK [0][-]{chapter.4}{Description Syntaxique de l'IHM}{}% 22
 \BOOKMARK [1][-]{section.4.1}{Sp\351cification Syntaxique du Langage d'Entr\351e / de Sortie}{chapter.4}% 23
 \BOOKMARK [1][-]{section.4.2}{Diagramme d'Encha\356nement des Fen\352tres}{chapter.4}% 24
-\BOOKMARK [1][-]{section.4.3}{Diagramme d'Etats des Classes}{chapter.4}% 25
-\BOOKMARK [0][-]{chapter.5}{Description Lexicale de l'IHM}{}% 26
-\BOOKMARK [1][-]{section.5.1}{Lexique des Objets Graphiques}{chapter.5}% 27
-\BOOKMARK [1][-]{section.5.2}{Tableau des Messages Utilisateurs}{chapter.5}% 28
-\BOOKMARK [1][-]{section.5.3}{Tableau ICAR de l'IHM}{chapter.5}% 29
-\BOOKMARK [0][-]{Annexe.a.A}{Glossaire}{}% 30
-\BOOKMARK [0][-]{Annexe.a.B}{DTD}{}% 31
-\BOOKMARK [0][-]{Annexe.a.C}{Croquis de d\351finition de l'IHM}{}% 32
-\BOOKMARK [0][-]{Annexe.a.D}{Diagramme de Gant du Projet}{}% 33
+\BOOKMARK [1][-]{section.4.3}{Diagramme d'Etat des Classes}{chapter.4}% 25
+\BOOKMARK [2][-]{subsection.4.3.1}{Digrammes concernant le livreur}{section.4.3}% 26
+\BOOKMARK [2][-]{subsection.4.3.2}{Diagrammes concernant la secr\351taire}{section.4.3}% 27
+\BOOKMARK [2][-]{subsection.4.3.3}{Diagrammes concernant le superviseur}{section.4.3}% 28
+\BOOKMARK [0][-]{chapter.5}{Description Lexicale de l'IHM}{}% 29
+\BOOKMARK [1][-]{section.5.1}{Lexique des Objets Graphiques}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.2}{Tableau des Messages Utilisateurs}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.3}{Tableau ICAR de l'IHM}{chapter.5}% 32
+\BOOKMARK [0][-]{chapter.6}{Conclusion sur le projet}{}% 33
+\BOOKMARK [0][-]{Annexe.a.A}{Glossaire}{}% 34
+\BOOKMARK [0][-]{Annexe.a.B}{DTD}{}% 35
+\BOOKMARK [0][-]{Annexe.a.C}{Croquis de d\351finition de l'IHM}{}% 36
+\BOOKMARK [0][-]{Annexe.a.D}{Diagramme de Gant du Projet}{}% 37
