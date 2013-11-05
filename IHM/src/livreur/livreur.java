@@ -8,6 +8,7 @@ import javax.swing.ImageIcon;
 import secretaire.livraisonGeo;
 import secretaire.modificationLIvraison;
 import secretaire.touteLivraison;
+import superviseur.supervise;
 
 /**
  *
@@ -202,6 +203,10 @@ public class livreur extends javax.swing.JFrame {
                 modificationLivraison.setVisible(true);
                 touteLivraison.setVisible(true);
                 
+                supervise = new supervise();
+                supervise.setVisible(true);
+                
+                
             }
         });
     }
@@ -223,4 +228,5 @@ public class livreur extends javax.swing.JFrame {
     private static javax.swing.JFrame livraisonGeo;
     private static javax.swing.JFrame modificationLivraison;
     private static javax.swing.JFrame touteLivraison;
+    private static javax.swing.JFrame supervise;
 }
